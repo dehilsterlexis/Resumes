@@ -1,0 +1,13 @@
+tokenize	nil	# Gen:   Convert input to token list
+nlp	KBFuncs	# comment
+nlp	init	# comment
+nlp	Lines	# comment
+nlp	separators	# comment
+nlp	RemoveWhiteSpace	# comment
+nlp	columns	# comment
+nlp	langAbbrev	# comment
+nlp	languages	# comment
+nlp	spoken	# comment
+nlp	gather	# comment
+nlp	toKBB	# comment
+nlp	output	# comment

@@ -1,0 +1,23 @@
+###############################################
+# FILE: dates
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 11:47:15
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_date <-
+	_xNUM	### (1)
+	\/		### (2)
+	_xNUM	### (3)
+	@@
+
+@RULES
+_newNode <-
+	😀	### (1)
+	@@
+		
+		

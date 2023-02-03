@@ -1,0 +1,28 @@
+###############################################
+# FILE: bullets
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 9:54:55
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@PRE
+<2,2> length(1);
+
+@POST
+	L("text") = N("$text");
+	if (L("text") != "(") {
+		L("bullet") = getconcept(G("format"),"bullet");
+		L("con") = AddUniqueCon(L("bullet"),L("text"));
+		X("bullet") = 1;
+		IncrementCount(L("con"),"count");
+		single();
+	}
+
+@RULES
+_bullet <-
+	_xSTART											### (1)
+	_xWILD [one match=(_xCTRL _xPUNCT) fail=(\()]	### (2)
+	@@

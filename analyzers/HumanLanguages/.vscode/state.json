@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "c:\\git\\ana-ln\\Resumes\\HumanLanguages\\input\\text.txt",
+            "currentPassFile": "c:\\git\\ana-ln\\Resumes\\HumanLanguages\\spec\\toKBB.nlp"
+        }
+    ]
+}

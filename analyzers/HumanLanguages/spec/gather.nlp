@@ -1,0 +1,30 @@
+###############################################
+# FILE: gather
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:37:22
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+	X("rank") = num(N("$text"));
+@RULES
+_xNIL <-
+	_rank	### (1)
+	@@
+
+@POST
+	X("country") = N("$text");
+@RULES
+_xNIL <-
+	_country	### (1)
+	@@
+
+@POST
+	X("pop") = num(strsubst(N("$text"),",",0));
+@RULES
+_xNIL <-
+	_pop	### (1)
+	@@

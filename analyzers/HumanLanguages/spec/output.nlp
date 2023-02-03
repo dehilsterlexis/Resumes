@@ -1,0 +1,14 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:48:10
+# MODIFIED:
+###############################################
+
+@CODE
+
+sortchilds(G("languages"));
+SaveKB("languages.kbb",G("languages"),2);
+
+@@CODE

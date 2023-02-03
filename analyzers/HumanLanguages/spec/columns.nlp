@@ -1,0 +1,25 @@
+###############################################
+# FILE: columns
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:24:56
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+	excise(6,6);
+	excise(4,4);
+	excise(2,2);
+
+@RULES
+_xNIL <-
+	_xWILD [fail=(_sep) gp=(_rank)]		### (1)
+	_sep								### (2)
+	_xWILD [fail=(_sep) gp=(_language)]	### (3)
+	_sep								### (4)
+	_xWILD [fail=(_sep) gp=(_country)]	### (5)
+	_sep								### (6)
+	_xWILD [fail=(_sep) gp=(_pop)]		### (7)
+	@@

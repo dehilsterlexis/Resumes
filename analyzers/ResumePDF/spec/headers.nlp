@@ -1,0 +1,24 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 10:10:34
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+	if (num(N("words")) && num(N("words")) == num(N("caps"))) {
+		N("level") = 1;
+		single();
+	}
+	else if (num(N("words")) && num(N("words")) == num(N("upper")) && N("words") <= 3) {
+		N("level") = 2;
+		single();
+	}
+
+@RULES
+_header <-
+	_LINE	### (1)
+	@@

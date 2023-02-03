@@ -1,0 +1,13 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:24:31
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("languages") = getconcept(findroot(),"languages");
+
+@@CODE

@@ -1,0 +1,14 @@
+###############################################
+# FILE: separators
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:5:35
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_sep <-
+	\t
+	@@

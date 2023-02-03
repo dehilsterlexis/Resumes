@@ -1,0 +1,21 @@
+###############################################
+# FILE: langAbbrev
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:29:9
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _LINE _language
+
+@POST
+	X("abbrev",3) = N("$text",2);
+	X("con",2) = makeconcept(G("languages"),N("$text",2));
+	single();
+@RULES
+_abbrev <-
+	\[		### (1)
+	_xALPHA	### (2)
+	\]		### (3)
+	@@
+

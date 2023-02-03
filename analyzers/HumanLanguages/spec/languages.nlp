@@ -1,0 +1,32 @@
+###############################################
+# FILE: languages
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:31:47
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _LINE _language
+
+@RULES
+_lang <-
+	_xALPHA	### (1)
+	\-		### (2)
+	_xALPHA	### (3)
+	@@
+
+@POST
+	noop();
+
+@RULES
+_xNIL <-
+	_xALPHA [gp=(_lang)]	### (1)
+	\,						### (2)
+	_xALPHA [gp=(_lang)]	### (3)
+	@@
+
+_xNIL <-
+	_xSTART					### (1)
+	_xALPHA [gp=(_lang)]	### (2)
+	@@
+

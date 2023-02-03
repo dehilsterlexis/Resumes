@@ -1,0 +1,34 @@
+###############################################
+# FILE: prose
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-3 9:56:55
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@PRE
+<1,1> var("prose");
+<2,2> var("prose");
+@POST
+	if (N("prose",1) >= 3 && N("prose",2) >= 3) {
+		single();
+	}
+@RULES
+_prose <-
+	_LINE	### (1)
+	_LINE	### (2)
+	@@
+
+@PRE
+<2,2> var("prose");
+@POST
+	if (N("prose",2) >= 3) {
+		listadd(1,2,"false");
+	}
+@RULES
+_xNIL <-
+	_prose	### (1)
+	_LINE	### (2)
+	@@

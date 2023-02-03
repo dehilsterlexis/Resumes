@@ -1,0 +1,21 @@
+###############################################
+# FILE: toKBB
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:45:56
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _LINE _language
+
+@POST
+	N("con") = makeconcept(X("con",2),strtolower(N("$text")));
+	addnumval(N("con"),"rank",X("rank",2));
+	addnumval(N("con"),"pop",X("pop",2));
+	if (N("spoken")) {
+		addnumval(N("con"),"spoken",1);
+	}
+@RULES
+_xNIL <-
+	_lang	### (1)
+	@@

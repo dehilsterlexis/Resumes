@@ -1,0 +1,17 @@
+###############################################
+# FILE: spoken
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 12:42:21
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _LINE _language
+
+@POST
+	N("spoken",1) = 1;
+@RULES
+_xNIL <-
+	_lang
+	spoken
+	@@
