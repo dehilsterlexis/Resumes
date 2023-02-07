@@ -1,0 +1,16 @@
+###############################################
+# FILE: email
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-7 11:9:53
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_email <-
+	_xWILD [plus match=(_xALPHA _xNUM \_ \.)]	### (1)
+	\@											### (2)
+	_xWILD [min=2 match=(_xALPHA _xNUM \.)]		### (3)
+	@@

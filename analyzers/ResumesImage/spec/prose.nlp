@@ -9,26 +9,20 @@
 @NODES _ROOT
 
 @PRE
-<1,1> var("prose");
-<2,2> var("prose");
+	<2,2> vargt("prose",2);
 @POST
-	if (N("prose",1) >= 3 && N("prose",2) >= 3) {
-		single();
-	}
+	listadd(1,2,"false");
 @RULES
-_prose <-
-	_LINE	### (1)
-	_LINE	### (2)
+_xNIL <-
+	_prose
+	_LINE
 	@@
 
 @PRE
-<2,2> var("prose");
-@POST
-	if (N("prose",2) >= 3) {
-		listadd(1,2,"false");
-	}
+	<1,1> vargt("prose",2);
+	<2,2> vargt("prose",2);
 @RULES
-_xNIL <-
-	_prose	### (1)
-	_LINE	### (2)
+_prose <-
+	_LINE
+	_LINE
 	@@

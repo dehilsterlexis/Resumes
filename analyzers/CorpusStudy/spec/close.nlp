@@ -1,0 +1,46 @@
+###############################################
+# FILE: close
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-6-17 13:24:39
+# MODIFIED:
+###############################################
+
+@CODE
+
+if (G("$islastfile")) {
+    L("path") = G("$kbpath") + "study.kbb";
+    L("file") = openfile(L("path"));
+
+    L("done") = 0;
+    while (!L("done")) {
+        L("done") = 1;
+        L("conmax") = 0;
+        L("max") = 0;
+        L("word") = down(G("words"));
+        while (L("word")) {
+            L("check") = numval(L("word"),"checked");
+            if (!L("check")) {
+                L("done") = 0;
+                L("count") = numval(L("word"),"count");
+                if (L("count") > L("max")) {
+                    # "max.txt" << conceptname(L("word")) << " " << L("count") << "\n";
+                    L("max") = L("count");
+                    L("conmax") = L("word");
+                }
+            }
+            L("word") = next(L("word"));
+        }
+        if (!L("done")) {
+            L("con") = makeconcept(G("order"),conceptname(L("conmax")));
+            addnumval(L("con"),"count",L("max"));
+            addnumval(L("conmax"),"checked",1);
+        }
+    }
+
+    sortchilds(G("study"));
+    SaveKB(L("file"),G("study"),2);
+    closefile(L("file"));
+}
+
+@@CODE

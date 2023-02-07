@@ -14,4 +14,17 @@ _date <-
 	\/		### (2)
 	_xNUM	### (3)
 	@@
+
+
+@PRE
+<1,1> var("month");
+<2,2> var("year");
+
+@RULES
+_newNode <-
+	_xALPHA	### (1)
+	_xNUM	### (2)
+	to		### (3)
+	present	### (4)
+	@@
 		

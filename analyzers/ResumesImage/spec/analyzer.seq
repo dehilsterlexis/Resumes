@@ -7,5 +7,7 @@ nlp	dates	# comment
 nlp	RemoveWhiteSpace	# comment
 nlp	wordTypes	# comment
 nlp	headers	# comment
-/rec	prose	# comment
+rec	prose	# comment
+nlp	headerZone	# comment
+nlp	proseOut	# comment
 nlp	output	# comment

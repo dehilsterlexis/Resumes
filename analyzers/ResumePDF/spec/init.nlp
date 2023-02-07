@@ -9,5 +9,7 @@
 @CODE
 
 G("format") = getconcept(findroot(),"format");
+G("caps") = getconcept(findroot(),"caps");
+G("names") = getconcept(findroot(),"names");
 
 @@CODE

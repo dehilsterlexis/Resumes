@@ -9,5 +9,6 @@
 @CODE
 
 SaveKB("format.kbb",G("format"),2);
+SaveKB("everything.kbb",findroot(),2);
 
 @@CODE

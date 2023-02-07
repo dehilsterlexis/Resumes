@@ -1,0 +1,17 @@
+###############################################
+# FILE: proseOut
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-3 14:50:32
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+	"prose.txt" << N("$text") << "\n\n";
+
+@RULES
+_xNIL <-
+	_prose	### (1)
+	@@

@@ -9,5 +9,7 @@
 @CODE
 
 SaveKB("format.kbb",G("format"),2);
+DisplayKB(G("caps"),2);
+DisplayKB(G("names"),2);
 
 @@CODE

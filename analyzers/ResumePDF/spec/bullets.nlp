@@ -12,7 +12,7 @@
 <2,2> length(1);
 
 @POST
-	L("text") = N("$text");
+	L("text") = N("$text",2);
 	if (L("text") != "(") {
 		L("bullet") = getconcept(G("format"),"bullet");
 		L("con") = AddUniqueCon(L("bullet"),L("text"));
@@ -22,6 +22,17 @@
 
 @RULES
 _bullet <-
-	_xSTART											### (1)
-	_xWILD [one match=(_xCTRL _xPUNCT) fail=(\()]	### (2)
+	_xSTART													### (1)
+	_xWILD [one match=(_xCTRL _xPUNCT _xEMOJI) fail=(\()]	### (2)
 	@@
+
+
+@PRE
+<1,1> numrange(1800,2050);
+@POST
+	N("year") = num(N("$text"));
+@RULES
+_xNIL <-
+	_xNUM	### (1)
+	@@
+		
