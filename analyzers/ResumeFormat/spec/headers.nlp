@@ -1,0 +1,39 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-7 17:55:20
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@PRE
+	<2,2> varlt("words",4);
+
+@POST
+	if (N("caps",2) && N("caps",2) == N("words",2)) {
+		S("level") = 1;
+		L("header") = getconcept(G("format"),"header");
+		L("one") = getconcept(L("header"),"one");
+		IncrementCount(L("one"),"count");
+		if (!G("max header"))
+			G("max header") = 1;
+		single();
+	}
+	else if (N("upper",2) && N("upper",2) == N("words",2)) {
+		S("level") = 2;
+		L("header") = getconcept(G("format"),"header");
+		L("two") = getconcept(L("header"),"two");
+		IncrementCount(L("two"),"count");
+		if (!G("max header") || G("max header") < 2)
+			G("max header") = 2;
+		single();
+	}
+
+@RULES
+_header <-
+	_BLANKLINE	### (1)
+	_LINE		### (2)
+	_BLANKLINE	### (3)
+	@@

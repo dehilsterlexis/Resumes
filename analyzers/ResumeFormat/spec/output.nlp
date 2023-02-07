@@ -1,0 +1,13 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-7 18:34:48
+# MODIFIED:
+###############################################
+
+@CODE
+
+SaveKB("format.kbb",G("format"),2);
+
+@@CODE
