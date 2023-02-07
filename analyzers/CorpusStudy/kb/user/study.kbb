@@ -1,0 +1,5307 @@
+study
+  heads
+  order
+    and: count=549
+    the: count=344
+    in: count=272
+    to: count=255
+    of: count=202
+    data: count=183
+    for: count=146
+    using: count=135
+    on: count=133
+    experience: count=132
+    with: count=120
+    a: count=94
+    as: count=92
+    sql: count=76
+    spring: count=66
+    project: count=62
+    used: count=59
+    from: count=57
+    development: count=56
+    worked: count=54
+    like: count=54
+    web: count=53
+    informatica: count=52
+    application: count=50
+    services: count=49
+    s: count=48
+    etl: count=48
+    developer: count=45
+    business: count=45
+    client: count=43
+    by: count=41
+    it: count=41
+    python: count=41
+    developed: count=40
+    oracle: count=40
+    hive: count=40
+    database: count=39
+    is: count=39
+    skills: count=38
+    server: count=38
+    design: count=36
+    com: count=34
+    cloud: count=34
+    code: count=34
+    tools: count=34
+    professional: count=33
+    good: count=33
+    knowledge: count=33
+    creating: count=33
+    java: count=31
+    environment: count=30
+    based: count=29
+    aws: count=29
+    pyspark: count=29
+    team: count=28
+    working: count=28
+    testing: count=28
+    work: count=27
+    created: count=27
+    into: count=27
+    software: count=27
+    system: count=27
+    technical: count=26
+    e: count=26
+    different: count=26
+    years: count=25
+    support: count=25
+    apache: count=25
+    systems: count=24
+    information: count=24
+    developing: count=24
+    mysql: count=24
+    files: count=24
+    tool: count=24
+    technologies: count=23
+    various: count=23
+    unix: count=22
+    hadoop: count=22
+    hdfs: count=22
+    involved: count=22
+    mapping: count=22
+    technology: count=21
+    an: count=21
+    spark: count=21
+    responsibilities: count=21
+    service: count=20
+    performance: count=20
+    having: count=20
+    gmail: count=20
+    framework: count=20
+    analysis: count=20
+    j: count=20
+    insurance: count=19
+    projects: count=19
+    i: count=19
+    xml: count=19
+    jobs: count=19
+    html: count=19
+    management: count=18
+    which: count=18
+    requirements: count=18
+    mappings: count=18
+    agile: count=18
+    windows: count=17
+    script: count=17
+    education: count=16
+    summary: count=16
+    all: count=16
+    process: count=16
+    per: count=16
+    scripts: count=16
+    integration: count=16
+    writing: count=16
+    production: count=16
+    automation: count=16
+    load: count=16
+    applications: count=16
+    css: count=16
+    api: count=16
+    strong: count=15
+    build: count=15
+    shell: count=15
+    languages: count=15
+    such: count=15
+    implemented: count=15
+    autosys: count=15
+    hands: count=15
+    tables: count=15
+    source: count=15
+    power: count=15
+    center: count=15
+    engineer: count=15
+    b: count=15
+    ibm: count=15
+    date: count=15
+    role: count=15
+    jira: count=15
+    transformations: count=15
+    that: count=15
+    architecture: count=14
+    engineering: count=14
+    jenkins: count=14
+    javascript: count=14
+    description: count=14
+    methodology: count=14
+    requirement: count=14
+    lambda: count=14
+    customer: count=13
+    new: count=13
+    company: count=13
+    understanding: count=13
+    control: count=13
+    git: count=13
+    processing: count=13
+    unit: count=13
+    test: count=13
+    job: count=13
+    duration: count=13
+    sqoop: count=13
+    designer: count=13
+    ltd: count=13
+    c: count=13
+    mvc: count=13
+    university: count=12
+    tasks: count=12
+    are: count=12
+    issues: count=12
+    security: count=12
+    or: count=12
+    queries: count=12
+    develop: count=12
+    warehousing: count=12
+    warehouse: count=12
+    end: count=12
+    till: count=12
+    july: count=12
+    health: count=12
+    json: count=12
+    type: count=12
+    jsp: count=12
+    problem: count=11
+    other: count=11
+    computer: count=11
+    k: count=11
+    life: count=11
+    version: count=11
+    mobile: count=11
+    may: count=11
+    scripting: count=11
+    rest: count=11
+    status: count=11
+    location: count=11
+    l: count=11
+    extensively: count=11
+    loading: count=11
+    ajax: count=11
+    db: count=11
+    hibernate: count=11
+    log: count=11
+    monitoring: count=10
+    clients: count=10
+    expertise: count=10
+    migration: count=10
+    logic: count=10
+    present: count=10
+    linux: count=10
+    organization: count=10
+    have: count=10
+    tuning: count=10
+    workflow: count=10
+    pl: count=10
+    components: count=10
+    azure: count=10
+    talend: count=10
+    analyzing: count=10
+    databases: count=10
+    pipeline: count=10
+    through: count=10
+    up: count=10
+    sources: count=10
+    implementing: count=10
+    amazon: count=10
+    soap: count=10
+    jax: count=10
+    camel: count=10
+    case: count=10
+    ant: count=10
+    ide: count=10
+    layer: count=10
+    m: count=9
+    science: count=9
+    communication: count=9
+    my: count=9
+    operating: count=9
+    responsible: count=9
+    delivery: count=9
+    deployment: count=9
+    email: count=9
+    about: count=9
+    devops: count=9
+    implementation: count=9
+    etc: count=9
+    p: count=9
+    flat: count=9
+    file: count=9
+    g: count=9
+    ui: count=9
+    pvt: count=9
+    reporting: count=9
+    core: count=9
+    restful: count=9
+    ee: count=9
+    functions: count=9
+    junit: count=9
+    roles: count=9
+    solutions: count=8
+    maintaining: count=8
+    over: count=8
+    this: count=8
+    also: count=8
+    building: count=8
+    n: count=8
+    solution: count=8
+    at: count=8
+    large: count=8
+    reducing: count=8
+    network: count=8
+    github: count=8
+    complex: count=8
+    time: count=8
+    state: count=8
+    objective: count=8
+    sdlc: count=8
+    accenture: count=8
+    quality: count=8
+    manager: count=8
+    t: count=8
+    eclipse: count=8
+    big: count=8
+    designing: count=8
+    designed: count=8
+    one: count=8
+    django: count=8
+    postgresql: count=8
+    module: count=8
+    reports: count=8
+    programming: count=8
+    batch: count=8
+    june: count=8
+    mongodb: count=8
+    extensive: count=8
+    ci: count=8
+    transformation: count=8
+    jquery: count=8
+    auto: count=8
+    clear: count=8
+    maven: count=8
+    tomcat: count=8
+    user: count=8
+    required: count=8
+    commands: count=8
+    name: count=8
+    scheduling: count=7
+    experienced: count=7
+    well: count=7
+    ability: count=7
+    d: count=7
+    solving: count=7
+    teams: count=7
+    bachelor: count=7
+    college: count=7
+    certified: count=7
+    full: count=7
+    wa: count=7
+    resolve: count=7
+    tech: count=7
+    customers: count=7
+    cycle: count=7
+    analyst: count=7
+    document: count=7
+    march: count=7
+    mail: count=7
+    datastage: count=7
+    concepts: count=7
+    teradata: count=7
+    where: count=7
+    phase: count=7
+    completed: count=7
+    platform: count=7
+    session: count=7
+    struts: count=7
+    aop: count=7
+    jdbc: count=7
+    jms: count=7
+    rational: count=7
+    classes: count=7
+    interface: count=7
+    backend: count=7
+    table: count=7
+    procedures: count=6
+    maintain: count=6
+    according: count=6
+    jane: count=6
+    processes: count=6
+    award: count=6
+    microsoft: count=6
+    english: count=6
+    providing: count=6
+    identify: count=6
+    continuous: count=6
+    within: count=6
+    storage: count=6
+    area: count=6
+    associate: count=6
+    technician: count=6
+    linkedin: count=6
+    current: count=6
+    create: count=6
+    performing: count=6
+    emr: count=6
+    india: count=6
+    multiple: count=6
+    functional: count=6
+    defect: count=6
+    environments: count=6
+    career: count=6
+    be: count=6
+    part: count=6
+    workflows: count=6
+    target: count=6
+    ms: count=6
+    aggregate: count=6
+    r: count=6
+    related: count=6
+    partitioning: count=6
+    deploying: count=6
+    existing: count=6
+    frameworks: count=6
+    nov: count=6
+    monitor: count=6
+    change: count=6
+    object: count=6
+    pipelines: count=6
+    o: count=6
+    triggers: count=6
+    ec: count=6
+    flask: count=6
+    activities: count=6
+    transform: count=6
+    cd: count=6
+    micro: count=6
+    servlets: count=6
+    cvs: count=6
+    beans: count=6
+    deployed: count=6
+    between: count=6
+    external: count=6
+    lookup: count=6
+    dec: count=6
+    validation: count=6
+    dm: count=6
+    maintenance: count=5
+    records: count=5
+    research: count=5
+    we: count=5
+    better: count=5
+    intern: count=5
+    print: count=5
+    major: count=5
+    its: count=5
+    many: count=5
+    use: count=5
+    form: count=5
+    features: count=5
+    along: count=5
+    presentation: count=5
+    techniques: count=5
+    analytical: count=5
+    timely: count=5
+    hardware: count=5
+    ensure: count=5
+    costs: count=5
+    certification: count=5
+    limited: count=5
+    phone: count=5
+    messages: count=5
+    day: count=5
+    year: count=5
+    home: count=5
+    analyze: count=5
+    managing: count=5
+    incidents: count=5
+    managed: count=5
+    app: count=5
+    global: count=5
+    relational: count=5
+    sessions: count=5
+    x: count=5
+    gujarat: count=5
+    profile: count=5
+    aug: count=5
+    details: count=5
+    scheduler: count=5
+    challenging: count=5
+    structured: count=5
+    bucket: count=5
+    running: count=5
+    dynamic: count=5
+    access: count=5
+    generated: count=5
+    execution: count=5
+    largest: count=5
+    make: count=5
+    view: count=5
+    list: count=5
+    apis: count=5
+    levels: count=5
+    private: count=5
+    task: count=5
+    automate: count=5
+    feb: count=5
+    month: count=5
+    care: count=5
+    palantir: count=5
+    financial: count=5
+    databricks: count=5
+    logics: count=5
+    language: count=5
+    oct: count=5
+    no: count=5
+    extract: count=5
+    rdbms: count=5
+    connected: count=5
+    parameters: count=5
+    angularjs: count=5
+    servers: count=5
+    dao: count=5
+    ioc: count=5
+    transfer: count=5
+    logging: count=5
+    sphere: count=5
+    jboss: count=5
+    instances: count=5
+    rabbitmq: count=5
+    request: count=5
+    basis: count=5
+    types: count=5
+    hyderabad: count=5
+    ansible: count=5
+    zurich: count=5
+    written: count=4
+    history: count=4
+    assisted: count=4
+    monitored: count=4
+    making: count=4
+    doe: count=4
+    can: count=4
+    social: count=4
+    media: count=4
+    school: count=4
+    personal: count=4
+    hand: count=4
+    creative: count=4
+    modeling: count=4
+    virtual: count=4
+    kayden: count=4
+    provide: count=4
+    innovative: count=4
+    users: count=4
+    scale: count=4
+    configuring: count=4
+    efficiency: count=4
+    native: count=4
+    calls: count=4
+    tickets: count=4
+    study: count=4
+    rules: count=4
+    join: count=4
+    iics: count=4
+    snowﬂake: count=4
+    gathering: count=4
+    high: count=4
+    critical: count=4
+    optimization: count=4
+    best: count=4
+    issue: count=4
+    certifications: count=4
+    id: count=4
+    documents: count=4
+    followed: count=4
+    standards: count=4
+    needed: count=4
+    qualification: count=4
+    rajkot: count=4
+    am: count=4
+    booking: count=4
+    ticket: count=4
+    consultant: count=4
+    products: count=4
+    now: count=4
+    fundamentals: count=4
+    key: count=4
+    factory: count=4
+    pycharm: count=4
+    stream: count=4
+    handling: count=4
+    implement: count=4
+    academic: count=4
+    needs: count=4
+    modules: count=4
+    loaded: count=4
+    top: count=4
+    further: count=4
+    cluster: count=4
+    step: count=4
+    art: count=4
+    strategy: count=4
+    studio: count=4
+    oriented: count=4
+    handle: count=4
+    communicate: count=4
+    orm: count=4
+    industry: count=4
+    daily: count=4
+    sep: count=4
+    members: count=4
+    jan: count=4
+    flow: count=4
+    send: count=4
+    tata: count=4
+    consultancy: count=4
+    tcs: count=4
+    foundry: count=4
+    transactions: count=4
+    transaction: count=4
+    integrate: count=4
+    deliver: count=4
+    has: count=4
+    was: count=4
+    variables: count=4
+    institute: count=4
+    sqs: count=4
+    bitbucket: count=4
+    structures: count=4
+    across: count=4
+    stack: count=4
+    scd: count=4
+    console: count=4
+    mapplet: count=4
+    router: count=4
+    expression: count=4
+    aggregator: count=4
+    update: count=4
+    domain: count=4
+    scaling: count=4
+    boot: count=4
+    rs: count=4
+    wsdl: count=4
+    axis: count=4
+    stored: count=4
+    sax: count=4
+    dom: count=4
+    intellij: count=4
+    jersey: count=4
+    rds: count=4
+    os: count=4
+    patterns: count=4
+    bank: count=4
+    handled: count=4
+    docker: count=4
+    function: count=4
+    staging: count=4
+    deploy: count=4
+    defects: count=4
+    enhancements: count=4
+    generate: count=4
+    specification: count=4
+    libraries: count=4
+    same: count=4
+    mapplets: count=4
+    th: count=4
+    athena: count=4
+    detection: count=4
+    pest: count=3
+    safety: count=3
+    texas: count=3
+    tx: count=3
+    pharmacist: count=3
+    successful: count=3
+    medication: count=3
+    organized: count=3
+    pharmacists: count=3
+    medical: count=3
+    drug: count=3
+    potential: count=3
+    side: count=3
+    effects: count=3
+    methods: count=3
+    processed: count=3
+    orders: count=3
+    prepared: count=3
+    thinking: count=3
+    world: count=3
+    executed: count=3
+    online: count=3
+    strategies: count=3
+    video: count=3
+    house: count=3
+    mechanical: count=3
+    integrated: count=3
+    facade: count=3
+    suite: count=3
+    pro: count=3
+    office: count=3
+    google: count=3
+    model: count=3
+    level: count=3
+    digital: count=3
+    interests: count=3
+    zhao: count=3
+    ideas: count=3
+    nextgen: count=3
+    lead: count=3
+    more: count=3
+    than: count=3
+    expert: count=3
+    specified: count=3
+    track: count=3
+    overall: count=3
+    installation: count=3
+    during: count=3
+    wide: count=3
+    areas: count=3
+    training: count=3
+    leadership: count=3
+    bilingual: count=3
+    proficiency: count=3
+    seattle: count=3
+    collaborated: count=3
+    maintained: count=3
+    washington: count=3
+    pullman: count=3
+    minor: count=3
+    provided: count=3
+    including: count=3
+    policies: count=3
+    flexible: count=3
+    internal: count=3
+    august: count=3
+    optimized: count=3
+    volume: count=3
+    datasets: count=3
+    improve: count=3
+    free: count=3
+    rally: count=3
+    closely: count=3
+    us: count=3
+    generating: count=3
+    cgpa: count=3
+    published: count=3
+    proﬁciency: count=3
+    formats: count=3
+    performed: count=3
+    plan: count=3
+    ing: count=3
+    star: count=3
+    dimensions: count=3
+    player: count=3
+    parcel: count=3
+    ritvik: count=3
+    bhavan: count=3
+    infosphere: count=3
+    december: count=3
+    stories: count=3
+    real: count=3
+    marts: count=3
+    secondary: count=3
+    position: count=3
+    motivated: count=3
+    these: count=3
+    kafka: count=3
+    map: count=3
+    pandas: count=3
+    semi: count=3
+    bi: count=3
+    board: count=3
+    ecosystem: count=3
+    bucketing: count=3
+    efficient: count=3
+    campaigns: count=3
+    graphic: count=3
+    store: count=3
+    front: count=3
+    numpy: count=3
+    cross: count=3
+    tableau: count=3
+    interact: count=3
+    while: count=3
+    incident: count=3
+    enhancement: count=3
+    very: count=3
+    hours: count=3
+    firm: count=3
+    entire: count=3
+    around: count=3
+    output: count=3
+    centre: count=3
+    availability: count=3
+    got: count=3
+    bangalore: count=3
+    karnataka: count=3
+    out: count=3
+    contour: count=3
+    checks: count=3
+    lineage: count=3
+    down: count=3
+    debugging: count=3
+    bug: count=3
+    sales: count=3
+    neighborhoods: count=3
+    sns: count=3
+    problems: count=3
+    november: count=3
+    exposure: count=3
+    salesforce: count=3
+    plans: count=3
+    increase: count=3
+    period: count=3
+    u: count=3
+    enterprise: count=3
+    their: count=3
+    slowly: count=3
+    changing: count=3
+    repository: count=3
+    joiner: count=3
+    re: count=3
+    cases: count=3
+    bootstrap: count=3
+    expressions: count=3
+    operations: count=3
+    collections: count=3
+    ejb: count=3
+    views: count=3
+    xsl: count=3
+    exchange: count=3
+    standard: count=3
+    svn: count=3
+    rad: count=3
+    node: count=3
+    singleton: count=3
+    delegate: count=3
+    pattern: count=3
+    capital: count=3
+    mar: count=3
+    credit: count=3
+    checking: count=3
+    resource: count=3
+    groups: count=3
+    sending: count=3
+    websphere: count=3
+    quote: count=3
+    purchase: count=3
+    aqp: count=3
+    sf: count=3
+    provides: count=3
+    gui: count=3
+    persistence: count=3
+    dependency: count=3
+    remote: count=3
+    tracking: count=3
+    insurer: count=3
+    united: count=3
+    includes: count=3
+    pages: count=3
+    ear: count=3
+    legacy: count=3
+    report: count=3
+    account: count=3
+    results: count=3
+    group: count=3
+    targets: count=3
+    utility: count=3
+    autocal: count=3
+    failures: count=3
+    weekly: count=3
+    run: count=3
+    documentation: count=3
+    prod: count=3
+    execute: count=3
+    chennai: count=3
+    configuration: count=3
+    review: count=3
+    powercenter: count=3
+    dimension: count=3
+    specifications: count=3
+    umr: count=3
+    honeywell: count=3
+    capgemini: count=3
+    trained: count=3
+    pig: count=3
+    cognizant: count=3
+    hbase: count=3
+    metastore: count=3
+    microservices: count=3
+    replication: count=3
+    usage: count=3
+    oozie: count=3
+    sparksql: count=3
+    resolution: count=2
+    sciences: count=2
+    background: count=2
+    patient: count=2
+    employee: count=2
+    satisfaction: count=2
+    billing: count=2
+    pharmacy: count=2
+    providecare: count=2
+    san: count=2
+    francisco: count=2
+    patients: count=2
+    generic: count=2
+    prescription: count=2
+    medications: count=2
+    administration: count=2
+    screen: count=2
+    appropriate: count=2
+    assistant: count=2
+    companies: count=2
+    providers: count=2
+    architect: count=2
+    positive: count=2
+    together: count=2
+    architects: count=2
+    phases: count=2
+    construction: count=2
+    layouts: count=2
+    throughout: count=2
+    models: count=2
+    ucl: count=2
+    department: count=2
+    excellence: count=2
+    networks: count=2
+    housing: count=2
+    forms: count=2
+    options: count=2
+    single: count=2
+    novoresume: count=2
+    public: count=2
+    active: count=2
+    graphics: count=2
+    autodesk: count=2
+    adobe: count=2
+    basic: count=2
+    comprehensive: count=2
+    resolutions: count=2
+    abilities: count=2
+    supervise: count=2
+    city: count=2
+    upgrades: count=2
+    timeline: count=2
+    budget: count=2
+    collaborating: count=2
+    manage: count=2
+    deals: count=2
+    equipment: count=2
+    specialist: count=2
+    inc: count=2
+    computers: count=2
+    connectivity: count=2
+    evaluated: count=2
+    awards: count=2
+    effective: count=2
+    knightley: count=2
+    answer: count=2
+    chat: count=2
+    increasing: count=2
+    repair: count=2
+    repairs: count=2
+    help: count=2
+    resolved: count=2
+    students: count=2
+    address: count=2
+    concerns: count=2
+    resolving: count=2
+    inquiries: count=2
+    average: count=2
+    unresolved: count=2
+    dept: count=2
+    errors: count=2
+    analyzed: count=2
+    individual: count=2
+    infrastructure: count=2
+    assist: count=2
+    program: count=2
+    interpersonal: count=2
+    rohit: count=2
+    kulkarni: count=2
+    competent: count=2
+    intelligent: count=2
+    passionate: count=2
+    learner: count=2
+    objects: count=2
+    improved: count=2
+    serve: count=2
+    qa: count=2
+    produce: count=2
+    ensuring: count=2
+    path: count=2
+    via: count=2
+    downstream: count=2
+    mumbai: count=2
+    finance: count=2
+    scratch: count=2
+    tuned: count=2
+    parameterization: count=2
+    loads: count=2
+    schemas: count=2
+    practices: count=2
+    international: count=2
+    iot: count=2
+    blynk: count=2
+    controlling: count=2
+    essentials: count=2
+    coursera: count=2
+    hindi: count=2
+    music: count=2
+    commitment: count=2
+    preparing: count=2
+    dimensional: count=2
+    schema: count=2
+    fact: count=2
+    excellent: count=2
+    deadlines: count=2
+    under: count=2
+    educational: count=2
+    here: count=2
+    operator: count=2
+    doing: count=2
+    accounting: count=2
+    travel: count=2
+    september: count=2
+    pass: count=2
+    http: count=2
+    additional: count=2
+    don: count=2
+    any: count=2
+    do: count=2
+    months: count=2
+    openui: count=2
+    sas: count=2
+    yahoo: count=2
+    senior: count=2
+    practitioner: count=2
+    page: count=2
+    seeking: count=2
+    technically: count=2
+    highly: count=2
+    allow: count=2
+    reduce: count=2
+    elt: count=2
+    complete: count=2
+    jntu: count=2
+    diploma: count=2
+    ssc: count=2
+    title: count=2
+    jupyter: count=2
+    vinodhini: count=2
+    querying: count=2
+    those: count=2
+    sets: count=2
+    avro: count=2
+    text: count=2
+    parquet: count=2
+    scala: count=2
+    frames: count=2
+    after: count=2
+    initiatives: count=2
+    ready: count=2
+    order: count=2
+    perform: count=2
+    sk: count=2
+    ills: count=2
+    eco: count=2
+    distribution: count=2
+    director: count=2
+    start: count=2
+    variety: count=2
+    content: count=2
+    photo: count=2
+    shoots: count=2
+    great: count=2
+    custom: count=2
+    wordpress: count=2
+    made: count=2
+    photoshop: count=2
+    contact: count=2
+    allisonbeer: count=2
+    net: count=2
+    f: count=2
+    interactive: count=2
+    goal: count=2
+    things: count=2
+    able: count=2
+    notebook: count=2
+    prasang: count=2
+    male: count=2
+    giant: count=2
+    done: count=2
+    proper: count=2
+    priority: count=2
+    apr: count=2
+    jun: count=2
+    delivered: count=2
+    effort: count=2
+    learning: count=2
+    expectations: count=2
+    pc: count=2
+    deliverables: count=2
+    fixed: count=2
+    requests: count=2
+    lots: count=2
+    relevant: count=2
+    insights: count=2
+    useful: count=2
+    analysing: count=2
+    purpose: count=2
+    coming: count=2
+    learnt: count=2
+    hp: count=2
+    self: count=2
+    sap: count=2
+    repositories: count=2
+    graph: count=2
+    since: count=2
+    connection: count=2
+    huge: count=2
+    quarterly: count=2
+    ingesting: count=2
+    ta: count=2
+    validations: count=2
+    fusion: count=2
+    sheets: count=2
+    usable: count=2
+    format: count=2
+    streams: count=2
+    seamless: count=2
+    akhil: count=2
+    shrivastava: count=2
+    get: count=2
+    prepare: count=2
+    rws: count=2
+    moravia: count=2
+    then: count=2
+    improving: count=2
+    scalable: count=2
+    distributed: count=2
+    ingestion: count=2
+    technological: count=2
+    kendriya: count=2
+    vidyalaya: count=2
+    shivpuri: count=2
+    angular: count=2
+    nationality: count=2
+    indian: count=2
+    marital: count=2
+    extracting: count=2
+    algorithms: count=2
+    value: count=2
+    utilities: count=2
+    toad: count=2
+    compass: count=2
+    troubleshooting: count=2
+    tac: count=2
+    v: count=2
+    w: count=2
+    ka: count=2
+    open: count=2
+    mac: count=2
+    swapnali: count=2
+    onkar: count=2
+    unconnected: count=2
+    lookups: count=2
+    filter: count=2
+    usability: count=2
+    supporting: count=2
+    extraction: count=2
+    achyuth: count=2
+    oops: count=2
+    sector: count=2
+    each: count=2
+    utilized: count=2
+    bulk: count=2
+    would: count=2
+    ami: count=2
+    iam: count=2
+    search: count=2
+    vpc: count=2
+    annotations: count=2
+    reliable: count=2
+    soa: count=2
+    rpc: count=2
+    ws: count=2
+    uddi: count=2
+    cxf: count=2
+    xsd: count=2
+    nosql: count=2
+    mongo: count=2
+    xslt: count=2
+    asynchronous: count=2
+    mq: count=2
+    provider: count=2
+    slf: count=2
+    tortoise: count=2
+    gradle: count=2
+    formation: count=2
+    methodologies: count=2
+    js: count=2
+    sts: count=2
+    rose: count=2
+    others: count=2
+    putty: count=2
+    quest: count=2
+    locator: count=2
+    banking: count=2
+    diversified: count=2
+    savings: count=2
+    small: count=2
+    will: count=2
+    coordinate: count=2
+    routes: count=2
+    configured: count=2
+    utilizing: count=2
+    setting: count=2
+    instance: count=2
+    backups: count=2
+    authentication: count=2
+    queue: count=2
+    netflix: count=2
+    versioning: count=2
+    controllers: count=2
+    cassandra: count=2
+    farm: count=2
+    property: count=2
+    being: count=2
+    gather: count=2
+    friendly: count=2
+    reading: count=2
+    response: count=2
+    consumed: count=2
+    injection: count=2
+    necessary: count=2
+    hql: count=2
+    bean: count=2
+    established: count=2
+    mechanisms: count=2
+    fixing: count=2
+    people: count=2
+    scalability: count=2
+    symphony: count=2
+    groovy: count=2
+    liberty: count=2
+    mutual: count=2
+    american: count=2
+    second: count=2
+    states: count=2
+    agent: count=2
+    sequence: count=2
+    detail: count=2
+    before: count=2
+    detailed: count=2
+    intranet: count=2
+    employees: count=2
+    they: count=2
+    login: count=2
+    action: count=2
+    entity: count=2
+    publish: count=2
+    wrote: count=2
+    statements: count=2
+    logs: count=2
+    myself: count=2
+    applying: count=2
+    feedhub: count=2
+    april: count=2
+    bfs: count=2
+    bigdata: count=2
+    canada: count=2
+    found: count=2
+    risk: count=2
+    general: count=2
+    developers: count=2
+    intermediate: count=2
+    sla: count=2
+    asc: count=2
+    ice: count=2
+    off: count=2
+    hold: count=2
+    success: count=2
+    following: count=2
+    notify: count=2
+    next: count=2
+    whenever: count=2
+    degree: count=2
+    place: count=2
+    bugzilla: count=2
+    sr: count=2
+    dms: count=2
+    arshiya: count=2
+    analyzer: count=2
+    csv: count=2
+    worklets: count=2
+    reusable: count=2
+    generator: count=2
+    un: count=2
+    incremental: count=2
+    organisational: count=2
+    designation: count=2
+    swiss: count=2
+    national: count=2
+    advanced: count=2
+    move: count=2
+    adaptable: count=2
+    kuppam: count=2
+    jannu: count=2
+    damini: count=2
+    dac: count=2
+    scheduled: count=2
+    tested: count=2
+    populated: count=2
+    updated: count=2
+    columns: count=2
+    record: count=2
+    zebra: count=2
+    dev: count=2
+    setup: count=2
+    vishakhapatnam: count=2
+    infosys: count=2
+    orc: count=2
+    inbound: count=2
+    ddep: count=2
+    glue: count=2
+    redshift: count=2
+    visualizing: count=2
+    tax: count=2
+    workbench: count=2
+    delta: count=2
+    amount: count=2
+    nodes: count=2
+    moved: count=2
+    nishant: count=2
+    garg: count=2
+    usd: count=2
+    reads: count=2
+    spot: count=2
+    serverless: count=2
+    cloudwatch: count=2
+    fastapi: count=2
+    scraping: count=2
+    balancer: count=2
+    documentdb: count=2
+    optimizing: count=2
+    proxy: count=2
+    android: count=2
+    import: count=2
+    export: count=2
+    singularity: count=2
+    oversight: count=1
+    appointment: count=1
+    vehicle: count=1
+    removal: count=1
+    inspections: count=1
+    preventative: count=1
+    measures: count=1
+    precautions: count=1
+    central: count=1
+    killeen: count=1
+    master: count=1
+    pharmaceutical: count=1
+    controls: count=1
+    confidentiality: count=1
+    updating: count=1
+    diligent: count=1
+    verbal: count=1
+    minimizing: count=1
+    expenses: count=1
+    recommending: count=1
+    alternative: count=1
+    ordering: count=1
+    stock: count=1
+    streamlined: count=1
+    inventory: count=1
+    low: count=1
+    overhead: count=1
+    educated: count=1
+    possible: count=1
+    interactions: count=1
+    optimal: count=1
+    reviewed: count=1
+    profiles: count=1
+    selection: count=1
+    dosing: count=1
+    contraindications: count=1
+    therapeutic: count=1
+    outcomes: count=1
+    incoming: count=1
+    bills: count=1
+    counted: count=1
+    labeled: count=1
+    prescriptions: count=1
+    correct: count=1
+    item: count=1
+    quantity: count=1
+    located: count=1
+    measured: count=1
+    modifications: count=1
+    instructed: count=1
+    junior: count=1
+    believer: count=1
+    combined: count=1
+    strengthening: count=1
+    our: count=1
+    societies: count=1
+    effect: count=1
+    only: count=1
+    future: count=1
+    therefore: count=1
+    chaudfountaine: count=1
+    achievements: count=1
+    marketing: count=1
+    participated: count=1
+    nationally: count=1
+    internationally: count=1
+    produced: count=1
+    drawings: count=1
+    had: count=1
+    rate: count=1
+    renderings: count=1
+    animations: count=1
+    msc: count=1
+    space: count=1
+    syntax: count=1
+    cities: count=1
+    bartlett: count=1
+    winner: count=1
+    spatial: count=1
+    dynamics: count=1
+    computation: count=1
+    architectural: count=1
+    phenomena: count=1
+    buildings: count=1
+    organisations: count=1
+    projectst: count=1
+    notblox: count=1
+    affordable: count=1
+    assembling: count=1
+    sustainable: count=1
+    communities: count=1
+    insulating: count=1
+    concrete: count=1
+    jury: count=1
+    called: count=1
+    handsome: count=1
+    sophisticated: count=1
+    commended: count=1
+    demonstration: count=1
+    ease: count=1
+    demonstrated: count=1
+    vinyl: count=1
+    passive: count=1
+    structure: count=1
+    example: count=1
+    louvers: count=1
+    act: count=1
+    copenhagen: count=1
+    instagram: count=1
+    speaking: count=1
+    listenting: count=1
+    perseverance: count=1
+    teamwork: count=1
+    oral: count=1
+    creativity: count=1
+    drafting: count=1
+    sketching: count=1
+    autocad: count=1
+    arggis: count=1
+    bim: count=1
+    sketchup: count=1
+    su: count=1
+    podium: count=1
+    revit: count=1
+    platforms: count=1
+    osx: count=1
+    drive: count=1
+    docs: count=1
+    darkroom: count=1
+    film: count=1
+    photography: count=1
+    sbeassas: count=1
+    danish: count=1
+    bea: count=1
+    german: count=1
+    sea: count=1
+    spanish: count=1
+    ae: count=1
+    artificial: count=1
+    intelligence: count=1
+    reality: count=1
+    chess: count=1
+    travelling: count=1
+    painting: count=1
+    marathons: count=1
+    logical: count=1
+    focused: count=1
+    remarkable: count=1
+    adept: count=1
+    leveraging: count=1
+    superior: count=1
+    prioritize: count=1
+    possess: count=1
+    incomparable: count=1
+    convey: count=1
+    diverse: count=1
+    audiences: count=1
+    varying: count=1
+    supervisor: count=1
+    specialists: count=1
+    furnishing: count=1
+    devices: count=1
+    appraise: count=1
+    emerging: count=1
+    strategic: count=1
+    recommendations: count=1
+    improvements: count=1
+    contribute: count=1
+    annual: count=1
+    keeping: count=1
+    expenditures: count=1
+    alignment: count=1
+    budgetary: count=1
+    limits: count=1
+    negotiate: count=1
+    vendors: count=1
+    reach: count=1
+    mutually: count=1
+    beneficial: count=1
+    initar: count=1
+    oversaw: count=1
+    innovated: count=1
+    configurations: count=1
+    remarkably: count=1
+    boosted: count=1
+    capabilities: count=1
+    spearheaded: count=1
+    desktop: count=1
+    upgrade: count=1
+    intouch: count=1
+    leader: count=1
+    niss: count=1
+    madison: count=1
+    oshkosh: count=1
+    wi: count=1
+    reasoning: count=1
+    collaboration: count=1
+    toolkit: count=1
+    mdt: count=1
+    certificates: count=1
+    cisco: count=1
+    ccna: count=1
+    comptia: count=1
+    vier: count=1
+    eg: count=1
+    vio: count=1
+    wes: count=1
+    cctp: count=1
+    bwa: count=1
+    nel: count=1
+    ss: count=1
+    korean: count=1
+    japanese: count=1
+    yelp: count=1
+    interns: count=1
+    emails: count=1
+    communicated: count=1
+    schedule: count=1
+    appointments: count=1
+    thorough: count=1
+    manual: count=1
+    diagnose: count=1
+    inspected: count=1
+    suggested: count=1
+    replacements: count=1
+    boosting: count=1
+    desk: count=1
+    diagnosed: count=1
+    laptops: count=1
+    phones: count=1
+    operated: count=1
+    immediate: count=1
+    minutes: count=1
+    fax: count=1
+    machines: count=1
+    printers: count=1
+    copiers: count=1
+    saving: count=1
+    take: count=1
+    booklets: count=1
+    number: count=1
+    screened: count=1
+    candidates: count=1
+    recorded: count=1
+    cleaned: count=1
+    resulting: count=1
+    finished: count=1
+    datasheets: count=1
+    budgets: count=1
+    discrepancies: count=1
+    extraneous: count=1
+    spending: count=1
+    answered: count=1
+    participant: count=1
+    eligibility: count=1
+    attentive: count=1
+    entry: count=1
+    valuable: count=1
+    looking: count=1
+    centerline: count=1
+    logistics: count=1
+    corporation: count=1
+    helpdesk: count=1
+    conflict: count=1
+    keen: count=1
+    interest: count=1
+    ﬂow: count=1
+    kulkarnirohit: count=1
+    nagpur: count=1
+    pune: count=1
+    enhanced: count=1
+    query: count=1
+    proﬁle: count=1
+    complexity: count=1
+    regulatory: count=1
+    coordinated: count=1
+    onshore: count=1
+    oﬀshore: count=1
+    accurate: count=1
+    manner: count=1
+    hotﬁx: count=1
+    migrations: count=1
+    engaged: count=1
+    partners: count=1
+    formal: count=1
+    informal: count=1
+    gain: count=1
+    approvals: count=1
+    overcome: count=1
+    obstacles: count=1
+    taskﬂows: count=1
+    pushdown: count=1
+    eﬃcient: count=1
+    ﬁle: count=1
+    extracts: count=1
+    sop: count=1
+    enabled: count=1
+    standardization: count=1
+    achievement: count=1
+    growth: count=1
+    catalyst: count=1
+    ace: count=1
+    yeshwantrao: count=1
+    chavan: count=1
+    hsc: count=1
+    deo: count=1
+    memorial: count=1
+    robotic: count=1
+    spraying: count=1
+    machine: count=1
+    paper: count=1
+    journal: count=1
+    scientiﬁc: count=1
+    ijsrst: count=1
+    appliances: count=1
+    esp: count=1
+    marathi: count=1
+    badminton: count=1
+    cricket: count=1
+    pratiksha: count=1
+    salunke: count=1
+    salunkepratiksha: count=1
+    presence: count=1
+    consciously: count=1
+    constantly: count=1
+    strive: count=1
+    dedicated: count=1
+    diligence: count=1
+    organizational: count=1
+    capability: count=1
+    understand: count=1
+    snowflake: count=1
+    endpoints: count=1
+    quick: count=1
+    meet: count=1
+    tight: count=1
+    pressure: count=1
+    electronic: count=1
+    parvat: count=1
+    kanavat: count=1
+    pkanavat: count=1
+    willing: count=1
+    relocate: count=1
+    patel: count=1
+    express: count=1
+    cargo: count=1
+    finding: count=1
+    travels: count=1
+    saurastra: count=1
+    oprater: count=1
+    call: count=1
+    infinity: count=1
+    january: count=1
+    networking: count=1
+    repairing: count=1
+    less: count=1
+    links: count=1
+    www: count=1
+    facebook: count=1
+    parvatsinh: count=1
+    rajput: count=1
+    bed: count=1
+    habit: count=1
+    insecure: count=1
+    honest: count=1
+    https: count=1
+    ab: count=1
+    focus: count=1
+    parallel: count=1
+    persistent: count=1
+    flex: count=1
+    cas: count=1
+    es: count=1
+    pimpri: count=1
+    chinchwad: count=1
+    enginee: count=1
+    ring: count=1
+    akurdi: count=1
+    higher: count=1
+    atlassian: count=1
+    resume: count=1
+    venuu: count=1
+    venu: count=1
+    progressive: count=1
+    fri: count=1
+    endly: count=1
+    pursuit: count=1
+    advancement: count=1
+    expand: count=1
+    latform: count=1
+    rdd: count=1
+    nd: count=1
+    unstructured: count=1
+    waterfall: count=1
+    methodologie: count=1
+    de: count=1
+    velopment: count=1
+    learn: count=1
+    rapidly: count=1
+    them: count=1
+    rofile: count=1
+    gpa: count=1
+    size: count=1
+    dd: count=1
+    bricka: count=1
+    bit: count=1
+    eagambaram: count=1
+    almost: count=1
+    understands: count=1
+    codes: count=1
+    capable: count=1
+    ats: count=1
+    transformed: count=1
+    likes: count=1
+    queried: count=1
+    engine: count=1
+    faster: count=1
+    url: count=1
+    converted: count=1
+    easy: count=1
+    installing: count=1
+    ecosy: count=1
+    stem: count=1
+    brought: count=1
+    simplification: count=1
+    bring: count=1
+    progress: count=1
+    base: count=1
+    innovate: count=1
+    cloudera: count=1
+    brokaw: count=1
+    collaborate: count=1
+    unexpected: count=1
+    finish: count=1
+    accountable: count=1
+    collateral: count=1
+    direct: count=1
+    drink: count=1
+    lot: count=1
+    worst: count=1
+    coffee: count=1
+    lakes: count=1
+    beer: count=1
+    marcus: count=1
+    thomas: count=1
+    direction: count=1
+    assets: count=1
+    identity: count=1
+    agency: count=1
+    handmodel: count=1
+    pet: count=1
+    dogs: count=1
+    punk: count=1
+    talks: count=1
+    punktalks: count=1
+    org: count=1
+    launch: count=1
+    site: count=1
+    advocated: count=1
+    you: count=1
+    sad: count=1
+    go: count=1
+    directly: count=1
+    brand: count=1
+    identities: count=1
+    website: count=1
+    materials: count=1
+    weapons: count=1
+    mass: count=1
+    creation: count=1
+    fest: count=1
+    mockups: count=1
+    arsenal: count=1
+    mastered: count=1
+    pen: count=1
+    recognition: count=1
+    adweek: count=1
+    lake: count=1
+    cemetery: count=1
+    campaign: count=1
+    billboards: count=1
+    hello: count=1
+    behance: count=1
+    miami: count=1
+    minors: count=1
+    honors: count=1
+    summa: count=1
+    cum: count=1
+    laude: count=1
+    stamps: count=1
+    scholar: count=1
+    president: count=1
+    illustrator: count=1
+    indesign: count=1
+    premiere: count=1
+    sass: count=1
+    miscellaneous: count=1
+    letterpress: count=1
+    printing: count=1
+    prototyping: count=1
+    invision: count=1
+    axure: count=1
+    veeraprasad: count=1
+    manubo: count=1
+    lu: count=1
+    manuboluveeraprasad: count=1
+    pursue: count=1
+    field: count=1
+    become: count=1
+    programmer: count=1
+    pands: count=1
+    committed: count=1
+    learns: count=1
+    assignments: count=1
+    concurrently: count=1
+    personnel: count=1
+    electronics: count=1
+    restapi: count=1
+    scm: count=1
+    jupiter: count=1
+    agarwal: count=1
+    icloud: count=1
+    kanpur: count=1
+    postproduction: count=1
+    exports: count=1
+    kpsl: count=1
+    itechpath: count=1
+    shipping: count=1
+    member: count=1
+    ssms: count=1
+    cognos: count=1
+    acting: count=1
+    both: count=1
+    achieved: count=1
+    follow: count=1
+    escalation: count=1
+    failover: count=1
+    pr: count=1
+    imary: count=1
+    subhash: count=1
+    agro: count=1
+    industries: count=1
+    goods: count=1
+    staff: count=1
+    en: count=1
+    sure: count=1
+    club: count=1
+    changes: count=1
+    few: count=1
+    know: count=1
+    previous: count=1
+    suggestions: count=1
+    save: count=1
+    telecommunications: count=1
+    sharp: count=1
+    curve: count=1
+    developments: count=1
+    tester: count=1
+    deciding: count=1
+    multinational: count=1
+    telecommuni: count=1
+    cations: count=1
+    turned: count=1
+    saved: count=1
+    expected: count=1
+    insightful: count=1
+    historical: count=1
+    maximizing: count=1
+    consistently: count=1
+    appreciated: count=1
+    practical: count=1
+    include: count=1
+    final: count=1
+    mks: count=1
+    acre: count=1
+    hub: count=1
+    another: count=1
+    teach: count=1
+    came: count=1
+    excel: count=1
+    acros: count=1
+    he: count=1
+    learned: count=1
+    long: count=1
+    intensive: count=1
+    me: count=1
+    chance: count=1
+    live: count=1
+    sahana: count=1
+    mob: count=1
+    sahanateligi: count=1
+    dash: count=1
+    boards: count=1
+    currently: count=1
+    reinsurance: count=1
+    flows: count=1
+    corrected: count=1
+    onboarding: count=1
+    sftp: count=1
+    da: count=1
+    enriching: count=1
+    workbook: count=1
+    error: count=1
+    story: count=1
+    gradation: count=1
+    interaction: count=1
+    shriakhil: count=1
+    gwalior: count=1
+    madhya: count=1
+    radesh: count=1
+    clean: count=1
+    aggregated: count=1
+    shoppers: count=1
+    behavior: count=1
+    visuals: count=1
+    sqls: count=1
+    refreshes: count=1
+    local: count=1
+    mash: count=1
+    aim: count=1
+    cost: count=1
+    proj: count=1
+    ect: count=1
+    capstone: count=1
+    battle: count=1
+    statement: count=1
+    determine: count=1
+    restaurant: count=1
+    loc: count=1
+    ations: count=1
+    york: count=1
+    gathered: count=1
+    ny: count=1
+    restaurants: count=1
+    foursquare: count=1
+    maps: count=1
+    kaggle: count=1
+    unsupervised: count=1
+    mean: count=1
+    clustering: count=1
+    independent: count=1
+    samrat: count=1
+    ashok: count=1
+    vidisha: count=1
+    rgpv: count=1
+    xii: count=1
+    accredited: count=1
+    lakehouse: count=1
+    programing: count=1
+    typescript: count=1
+    ql: count=1
+    scss: count=1
+    dotnet: count=1
+    apps: count=1
+    safe: count=1
+    scaled: count=1
+    confluence: count=1
+    crown: count=1
+    fortnight: count=1
+    birth: count=1
+    unmarried: count=1
+    krishna: count=1
+    chaitanya: count=1
+    chaitanyakrishna: count=1
+    customized: count=1
+    solve: count=1
+    solves: count=1
+    pocs: count=1
+    proficient: count=1
+    back: count=1
+    troubleshoot: count=1
+    participating: count=1
+    planning: count=1
+    estimating: count=1
+    retrospectives: count=1
+    matplot: count=1
+    lib: count=1
+    beautifulsoup: count=1
+    share: count=1
+    point: count=1
+    qc: count=1
+    winscp: count=1
+    bottlenecks: count=1
+    facts: count=1
+    administrator: count=1
+    optimising: count=1
+    efficiently: count=1
+    adapting: count=1
+    latest: count=1
+    fulfill: count=1
+    feeding: count=1
+    micolinks: count=1
+    bengaluru: count=1
+    successfully: count=1
+    delmon: count=1
+    muscat: count=1
+    oman: count=1
+    abdul: count=1
+    nabi: count=1
+    saheb: count=1
+    h: count=1
+    visvesvaraya: count=1
+    belagavi: count=1
+    tos: count=1
+    gulbarga: count=1
+    textabdulnabi: count=1
+    urdu: count=1
+    kannada: count=1
+    regional: count=1
+    sharad: count=1
+    y: count=1
+    informatic: count=1
+    datawarehouse: count=1
+    archive: count=1
+    varied: count=1
+    meets: count=1
+    corporate: count=1
+    ooad: count=1
+    jee: count=1
+    actively: count=1
+    nodejs: count=1
+    watch: count=1
+    elb: count=1
+    dynamo: count=1
+    elastic: count=1
+    jsps: count=1
+    jstl: count=1
+    communicating: count=1
+    simple: count=1
+    protocol: count=1
+    representational: count=1
+    jaxb: count=1
+    xpath: count=1
+    fo: count=1
+    parsers: count=1
+    messaging: count=1
+    way: count=1
+    mechanism: count=1
+    concurrent: count=1
+    plugins: count=1
+    mentoring: count=1
+    glassfish: count=1
+    mark: count=1
+    dojo: count=1
+    jsf: count=1
+    gwt: count=1
+    cfx: count=1
+    eap: count=1
+    idea: count=1
+    visio: count=1
+    rtc: count=1
+    mockito: count=1
+    tree: count=1
+    prototype: count=1
+    visitor: count=1
+    observer: count=1
+    decorator: count=1
+    controller: count=1
+    mclean: count=1
+    va: count=1
+    among: count=1
+    unions: count=1
+    loans: count=1
+    servicing: count=1
+    offers: count=1
+    mortgage: count=1
+    lending: count=1
+    accounts: count=1
+    individuals: count=1
+    businesses: count=1
+    commercial: count=1
+    define: count=1
+    efforts: count=1
+    responsive: count=1
+    rwd: count=1
+    fetching: count=1
+    pivotal: count=1
+    domains: count=1
+    multitude: count=1
+    vpcs: count=1
+    assessment: count=1
+    indicators: count=1
+    token: count=1
+    container: count=1
+    easily: count=1
+    accessible: count=1
+    runtime: count=1
+    eureka: count=1
+    oauth: count=1
+    authorization: count=1
+    declarative: count=1
+    points: count=1
+    gateway: count=1
+    replace: count=1
+    acts: count=1
+    bridge: count=1
+    pom: count=1
+    redis: count=1
+    dallas: count=1
+    causality: count=1
+    main: count=1
+    forte: count=1
+    umbrella: count=1
+    crucial: count=1
+    involves: count=1
+    fixes: count=1
+    relationships: count=1
+    interfaces: count=1
+    carried: count=1
+    loose: count=1
+    coupling: count=1
+    layers: count=1
+    injected: count=1
+    dependent: count=1
+    cutting: count=1
+    exceptions: count=1
+    message: count=1
+    driven: count=1
+    queues: count=1
+    mdbs: count=1
+    listeners: count=1
+    entities: count=1
+    packaged: count=1
+    notification: count=1
+    tracing: count=1
+    jdk: count=1
+    jndi: count=1
+    rmi: count=1
+    cigna: count=1
+    healthcare: count=1
+    windsor: count=1
+    ct: count=1
+    helping: count=1
+    benefit: count=1
+    helps: count=1
+    reengineering: count=1
+    old: count=1
+    replacing: count=1
+    outdated: count=1
+    cordiant: count=1
+    frame: count=1
+    daos: count=1
+    feature: count=1
+    mdb: count=1
+    receive: count=1
+    ibmmq: count=1
+    queuing: count=1
+    dto: count=1
+    jta: count=1
+    coded: count=1
+    template: count=1
+    accuracy: count=1
+    sanity: count=1
+    uml: count=1
+    soapui: count=1
+    casualty: count=1
+    ecommerce: count=1
+    accessibility: count=1
+    quotes: count=1
+    payments: count=1
+    class: count=1
+    diagrams: count=1
+    iterative: count=1
+    cycles: count=1
+    every: count=1
+    iteration: count=1
+    passes: count=1
+    packages: count=1
+    cursors: count=1
+    nested: count=1
+    arrays: count=1
+    wireframes: count=1
+    receiving: count=1
+    tiles: count=1
+    tag: count=1
+    simplify: count=1
+    complexities: count=1
+    speed: count=1
+    filling: count=1
+    consuming: count=1
+    jar: count=1
+    war: count=1
+    automatically: count=1
+    capture: count=1
+    soft: count=1
+    mainly: count=1
+    meant: count=1
+    mailing: count=1
+    chatting: count=1
+    guided: count=1
+    set: count=1
+    customs: count=1
+    tags: count=1
+    display: count=1
+    contents: count=1
+    avoid: count=1
+    amounts: count=1
+    items: count=1
+    navigation: count=1
+    steps: count=1
+    storing: count=1
+    terms: count=1
+    stress: count=1
+    tests: count=1
+    wsad: count=1
+    pvcs: count=1
+    prs: count=1
+    price: count=1
+    rates: count=1
+    fedex: count=1
+    locations: count=1
+    subsidiaries: count=1
+    interacts: count=1
+    uses: count=1
+    retrieve: count=1
+    divya: count=1
+    rajagopal: count=1
+    divyaraj: count=1
+    ably: count=1
+    ph: count=1
+    competitive: count=1
+    establish: count=1
+    hue: count=1
+    actimizer: count=1
+    yrs: count=1
+    crime: count=1
+    fcmt: count=1
+    identifying: count=1
+    suspicious: count=1
+    fraudulent: count=1
+    specific: count=1
+    sufficient: count=1
+    funds: count=1
+    allocated: count=1
+    ledger: count=1
+    abinitio: count=1
+    migrate: count=1
+    obtain: count=1
+    similar: count=1
+    comparing: count=1
+    match: count=1
+    udf: count=1
+    typecasting: count=1
+    wherever: count=1
+    windowing: count=1
+    optimize: count=1
+    yield: count=1
+    compared: count=1
+    ca: count=1
+    add: count=1
+    remove: count=1
+    requested: count=1
+    watchers: count=1
+    boxes: count=1
+    depth: count=1
+    functionality: count=1
+    calendars: count=1
+    secure: count=1
+    actions: count=1
+    force: count=1
+    kill: count=1
+    terminate: count=1
+    jil: count=1
+    autorep: count=1
+    depends: count=1
+    upon: count=1
+    regarding: count=1
+    escalate: count=1
+    vendor: count=1
+    monthly: count=1
+    yearly: count=1
+    batches: count=1
+    gaps: count=1
+    enable: count=1
+    identification: count=1
+    alerting: count=1
+    rebooting: count=1
+    remediating: count=1
+    started: count=1
+    check: count=1
+    stable: count=1
+    weblogic: count=1
+    transferring: count=1
+    retail: count=1
+    provision: count=1
+    fix: count=1
+    poc: count=1
+    alchemy: count=1
+    techsol: count=1
+    independently: count=1
+    sed: count=1
+    awk: count=1
+    conditional: count=1
+    loops: count=1
+    sqlplus: count=1
+    connect: count=1
+    collecting: count=1
+    post: count=1
+    deadline: count=1
+    trigger: count=1
+    mails: count=1
+    associates: count=1
+    sendmail: count=1
+    associated: count=1
+    passout: count=1
+    percentage: count=1
+    ece: count=1
+    dr: count=1
+    thimmaiah: count=1
+    kgf: count=1
+    declaration: count=1
+    hereby: count=1
+    declare: count=1
+    above: count=1
+    mentioned: count=1
+    true: count=1
+    beliefs: count=1
+    signature: count=1
+    khaja: count=1
+    reddy: count=1
+    khajareddych: count=1
+    playbooks: count=1
+    sqlite: count=1
+    dtv: count=1
+    perforce: count=1
+    bharathidasan: count=1
+    sc: count=1
+    alliance: count=1
+    technosoft: count=1
+    feasible: count=1
+    manufacturers: count=1
+    versions: count=1
+    host: count=1
+    oel: count=1
+    activity: count=1
+    hosts: count=1
+    need: count=1
+    audit: count=1
+    repose: count=1
+    vulnerabilities: count=1
+    play: count=1
+    station: count=1
+    ngp: count=1
+    generation: count=1
+    gaming: count=1
+    product: count=1
+    sony: count=1
+    kit: count=1
+    attempts: count=1
+    if: count=1
+    creates: count=1
+    searching: count=1
+    executable: count=1
+    stores: count=1
+    localappdata: count=1
+    copies: count=1
+    kernel: count=1
+    crash: count=1
+    manages: count=1
+    explorer: count=1
+    communicates: count=1
+    command: count=1
+    prompt: count=1
+    there: count=1
+    thousands: count=1
+    concentrates: count=1
+    confirm: count=1
+    shaik: count=1
+    sab: count=1
+    qualifier: count=1
+    sorter: count=1
+    union: count=1
+    sequnce: count=1
+    reusability: count=1
+    extracted: count=1
+    contributed: count=1
+    sample: count=1
+    grasp: count=1
+    quickly: count=1
+    competencies: count=1
+    worklet: count=1
+    headquartered: count=1
+    zürich: count=1
+    country: count=1
+    forbes: count=1
+    ranked: count=1
+    interbrand: count=1
+    brands: count=1
+    three: count=1
+    segments: count=1
+    farmers: count=1
+    employs: count=1
+    countries: count=1
+    territories: count=1
+    listed: count=1
+    six: count=1
+    analyser: count=1
+    tranformations: count=1
+    normalizer: count=1
+    resuable: count=1
+    concecpts: count=1
+    indirect: count=1
+    method: count=1
+    varables: count=1
+    perameterization: count=1
+    checked: count=1
+    several: count=1
+    discuss: count=1
+    third: count=1
+    party: count=1
+    uhg: count=1
+    profit: count=1
+    aims: count=1
+    added: count=1
+    discounts: count=1
+    claims: count=1
+    chronic: count=1
+    condition: count=1
+    wellness: count=1
+    programs: count=1
+    headquarters: count=1
+    wausau: count=1
+    wisconsin: count=1
+    generates: count=1
+    million: count=1
+    common: count=1
+    range: count=1
+    validate: count=1
+    coding: count=1
+    keyskills: count=1
+    keyskillscreated: count=1
+    attitude: count=1
+    towards: count=1
+    orientated: count=1
+    chittoor: count=1
+    dist: count=1
+    collaborative: count=1
+    minded: count=1
+    skilled: count=1
+    workiva: count=1
+    seeks: count=1
+    opportunity: count=1
+    functionally: count=1
+    peace: count=1
+    organizations: count=1
+    uranium: count=1
+    hexafluoride: count=1
+    facilitykansas: count=1
+    plantsandia: count=1
+    laboratories: count=1
+    facilities: count=1
+    adequate: count=1
+    linking: count=1
+    chains: count=1
+    connectors: count=1
+    presentations: count=1
+    accomplished: count=1
+    alternate: count=1
+    estimates: count=1
+    rccl: count=1
+    royal: count=1
+    caribbean: count=1
+    cruises: count=1
+    ddl: count=1
+    dml: count=1
+    dcl: count=1
+    defined: count=1
+    indexes: count=1
+    indexed: count=1
+    else: count=1
+    insert: count=1
+    flag: count=1
+    inserted: count=1
+    grasped: count=1
+    subject: count=1
+    ep: count=1
+    descriptions: count=1
+    times: count=1
+    vignan: count=1
+    duvvada: count=1
+    mpc: count=1
+    narayana: count=1
+    jr: count=1
+    sri: count=1
+    ramakrishna: count=1
+    trainings: count=1
+    plsql: count=1
+    governance: count=1
+    privacy: count=1
+    foundation: count=1
+    attention: count=1
+    nature: count=1
+    browsing: count=1
+    internet: count=1
+    sports: count=1
+    telugu: count=1
+    maria: count=1
+    rinaldi: count=1
+    mariarinaldi: count=1
+    dataware: count=1
+    ecosystems: count=1
+    resourcemanager: count=1
+    nodemanager: count=1
+    paradigm: count=1
+    warehouses: count=1
+    computing: count=1
+    simultaneously: count=1
+    rd: count=1
+    smart: count=1
+    softwares: count=1
+    st: count=1
+    qualifications: count=1
+    magna: count=1
+    anna: count=1
+    mapreduce: count=1
+    xp: count=1
+    known: count=1
+    aps: count=1
+    westpac: count=1
+    australia: count=1
+    retrieved: count=1
+    metadata: count=1
+    ingest: count=1
+    bdp: count=1
+    apply: count=1
+    release: count=1
+    sit: count=1
+    svp: count=1
+    uat: count=1
+    executing: count=1
+    ingested: count=1
+    directories: count=1
+    analytics: count=1
+    find: count=1
+    dataset: count=1
+    alm: count=1
+    raised: count=1
+    lifecycle: count=1
+    wildcats: count=1
+    nationwide: count=1
+    continuously: count=1
+    demo: count=1
+    column: count=1
+    astrazeneca: count=1
+    sqlserver: count=1
+    analyses: count=1
+    gitbase: count=1
+    hcm: count=1
+    reltiodb: count=1
+    hca: count=1
+    hcp: count=1
+    axa: count=1
+    smartsources: count=1
+    when: count=1
+    crawling: count=1
+    increased: count=1
+    massively: count=1
+    cannot: count=1
+    kind: count=1
+    box: count=1
+    reason: count=1
+    wants: count=1
+    exactly: count=1
+    massive: count=1
+    means: count=1
+    satisfy: count=1
+    operation: count=1
+    crawl: count=1
+    retailers: count=1
+    tabular: count=1
+    parsed: count=1
+    partitions: count=1
+    buckets: count=1
+    vectorization: count=1
+    indexing: count=1
+    completely: count=1
+    dob: count=1
+    sex: count=1
+    married: count=1
+    tamil: count=1
+    nishantgarg: count=1
+    gargnishant: count=1
+    near: count=1
+    medium: count=1
+    infrastructures: count=1
+    fargate: count=1
+    aurora: count=1
+    asg: count=1
+    cloudwiry: count=1
+    boto: count=1
+    metrics: count=1
+    read: count=1
+    replications: count=1
+    allowed: count=1
+    sec: count=1
+    minimize: count=1
+    latency: count=1
+    compute: count=1
+    fault: count=1
+    tolerance: count=1
+    aidetic: count=1
+    keys: count=1
+    nginx: count=1
+    reverse: count=1
+    dockers: count=1
+    swarm: count=1
+    zestiot: count=1
+    mvvm: count=1
+    rcet: count=1
+    cbse: count=1
+    ssv: count=1
+    course: count=1
+    udacity: count=1
+    ch: count=1
+    srinivaslu: count=1
+    chithiralasrinuvasulu: count=1
+    sparkstreaming: count=1
+    rdds: count=1
+    dfs: count=1
+    input: count=1
+    getting: count=1
+    hiveql: count=1
+    primary: count=1
+    cse: count=1
+    jntuk: count=1
+    kakinda: count=1
+    singapore: count=1
+    dbs: count=1
+    cdh: count=1
+    consolidate: count=1
+    loan: count=1
+    equity: count=1
+    unified: count=1
+    again: count=1
+    going: count=1
+    merge: count=1
+    promote: count=1
+    particular: count=1
+    card: count=1
+    holder: count=1
+    regular: count=1
+    validating: count=1
+    fields: count=1
+    respect: count=1
+    dataframe: count=1
+  words
+    skills: count=38, checked=1
+    team: count=28, checked=1
+    oversight: count=1, checked=1
+    appointment: count=1, checked=1
+    scheduling: count=7, checked=1
+    service: count=20, checked=1
+    vehicle: count=1, checked=1
+    maintenance: count=5, checked=1
+    pest: count=3, checked=1
+    removal: count=1, checked=1
+    inspections: count=1, checked=1
+    problem: count=11, checked=1
+    resolution: count=2, checked=1
+    preventative: count=1, checked=1
+    measures: count=1, checked=1
+    safety: count=3, checked=1
+    precautions: count=1, checked=1
+    and: count=549, checked=1
+    procedures: count=6, checked=1
+    management: count=18, checked=1
+    solutions: count=8, checked=1
+    education: count=16, checked=1
+    texas: count=3, checked=1
+    a: count=94, checked=1
+    m: count=9, checked=1
+    university: count=12, checked=1
+    central: count=1, checked=1
+    killeen: count=1, checked=1
+    tx: count=3, checked=1
+    master: count=1, checked=1
+    of: count=202, checked=1
+    science: count=9, checked=1
+    pharmaceutical: count=1, checked=1
+    sciences: count=2, checked=1
+    professional: count=33, checked=1
+    summary: count=16, checked=1
+    experienced: count=7, checked=1
+    pharmacist: count=3, checked=1
+    with: count=120, checked=1
+    successful: count=3, checked=1
+    background: count=2, checked=1
+    maintaining: count=8, checked=1
+    medication: count=3, checked=1
+    controls: count=1, checked=1
+    patient: count=2, checked=1
+    confidentiality: count=1, checked=1
+    as: count=92, checked=1
+    well: count=7, checked=1
+    monitoring: count=10, checked=1
+    employee: count=2, checked=1
+    performance: count=20, checked=1
+    customer: count=13, checked=1
+    satisfaction: count=2, checked=1
+    updating: count=1, checked=1
+    billing: count=2, checked=1
+    systems: count=24, checked=1
+    organized: count=3, checked=1
+    diligent: count=1, checked=1
+    pharmacy: count=2, checked=1
+    good: count=33, checked=1
+    verbal: count=1, checked=1
+    written: count=4, checked=1
+    communication: count=9, checked=1
+    work: count=27, checked=1
+    history: count=4, checked=1
+    pharmacists: count=3, checked=1
+    providecare: count=2, checked=1
+    san: count=2, checked=1
+    francisco: count=2, checked=1
+    assisted: count=4, checked=1
+    patients: count=2, checked=1
+    in: count=272, checked=1
+    minimizing: count=1, checked=1
+    medical: count=3, checked=1
+    expenses: count=1, checked=1
+    by: count=41, checked=1
+    recommending: count=1, checked=1
+    generic: count=2, checked=1
+    alternative: count=1, checked=1
+    prescription: count=2, checked=1
+    medications: count=2, checked=1
+    monitored: count=4, checked=1
+    ordering: count=1, checked=1
+    stock: count=1, checked=1
+    to: count=255, checked=1
+    maintain: count=6, checked=1
+    streamlined: count=1, checked=1
+    inventory: count=1, checked=1
+    low: count=1, checked=1
+    overhead: count=1, checked=1
+    educated: count=1, checked=1
+    on: count=133, checked=1
+    possible: count=1, checked=1
+    drug: count=3, checked=1
+    interactions: count=1, checked=1
+    potential: count=3, checked=1
+    side: count=3, checked=1
+    effects: count=3, checked=1
+    optimal: count=1, checked=1
+    methods: count=3, checked=1
+    administration: count=2, checked=1
+    reviewed: count=1, checked=1
+    profiles: count=1, checked=1
+    records: count=5, checked=1
+    screen: count=2, checked=1
+    for: count=146, checked=1
+    appropriate: count=2, checked=1
+    selection: count=1, checked=1
+    dosing: count=1, checked=1
+    contraindications: count=1, checked=1
+    therapeutic: count=1, checked=1
+    outcomes: count=1, checked=1
+    assistant: count=2, checked=1
+    processed: count=3, checked=1
+    incoming: count=1, checked=1
+    orders: count=3, checked=1
+    prepared: count=3, checked=1
+    bills: count=1, checked=1
+    insurance: count=19, checked=1
+    companies: count=2, checked=1
+    counted: count=1, checked=1
+    labeled: count=1, checked=1
+    prescriptions: count=1, checked=1
+    correct: count=1, checked=1
+    item: count=1, checked=1
+    quantity: count=1, checked=1
+    located: count=1, checked=1
+    measured: count=1, checked=1
+    according: count=6, checked=1
+    information: count=24, checked=1
+    making: count=4, checked=1
+    modifications: count=1, checked=1
+    instructed: count=1, checked=1
+    providers: count=2, checked=1
+    jane: count=6, checked=1
+    doe: count=4, checked=1
+    junior: count=1, checked=1
+    architect: count=2, checked=1
+    strong: count=15, checked=1
+    believer: count=1, checked=1
+    the: count=344, checked=1
+    ability: count=7, checked=1
+    architecture: count=14, checked=1
+    research: count=5, checked=1
+    combined: count=1, checked=1
+    design: count=36, checked=1
+    thinking: count=3, checked=1
+    strengthening: count=1, checked=1
+    our: count=1, checked=1
+    societies: count=1, checked=1
+    having: count=20, checked=1
+    positive: count=2, checked=1
+    effect: count=1, checked=1
+    world: count=3, checked=1
+    only: count=1, checked=1
+    together: count=2, checked=1
+    can: count=4, checked=1
+    we: count=5, checked=1
+    build: count=15, checked=1
+    better: count=5, checked=1
+    future: count=1, checked=1
+    therefore: count=1, checked=1
+    my: count=9, checked=1
+    working: count=28, checked=1
+    gmail: count=20, checked=1
+    com: count=34, checked=1
+    experience: count=132, checked=1
+    intern: count=5, checked=1
+    chaudfountaine: count=1, checked=1
+    architects: count=2, checked=1
+    achievements: count=1, checked=1
+    tasks: count=12, checked=1
+    developed: count=40, checked=1
+    executed: count=3, checked=1
+    online: count=3, checked=1
+    social: count=4, checked=1
+    media: count=4, checked=1
+    print: count=5, checked=1
+    marketing: count=1, checked=1
+    strategies: count=3, checked=1
+    new: count=13, checked=1
+    projects: count=19, checked=1
+    participated: count=1, checked=1
+    all: count=16, checked=1
+    phases: count=2, checked=1
+    construction: count=2, checked=1
+    processes: count=6, checked=1
+    major: count=5, checked=1
+    nationally: count=1, checked=1
+    internationally: count=1, checked=1
+    produced: count=1, checked=1
+    drawings: count=1, checked=1
+    layouts: count=2, checked=1
+    clients: count=10, checked=1
+    throughout: count=2, checked=1
+    had: count=1, checked=1
+    rate: count=1, checked=1
+    over: count=8, checked=1
+    created: count=27, checked=1
+    d: count=7, checked=1
+    models: count=2, checked=1
+    renderings: count=1, checked=1
+    video: count=3, checked=1
+    animations: count=1, checked=1
+    msc: count=1, checked=1
+    space: count=1, checked=1
+    syntax: count=1, checked=1
+    cities: count=1, checked=1
+    bartlett: count=1, checked=1
+    school: count=4, checked=1
+    ucl: count=2, checked=1
+    department: count=2, checked=1
+    excellence: count=2, checked=1
+    award: count=6, checked=1
+    winner: count=1, checked=1
+    spatial: count=1, checked=1
+    dynamics: count=1, checked=1
+    computation: count=1, checked=1
+    architectural: count=1, checked=1
+    phenomena: count=1, checked=1
+    buildings: count=1, checked=1
+    organisations: count=1, checked=1
+    networks: count=2, checked=1
+    knowledge: count=33, checked=1
+    based: count=29, checked=1
+    process: count=16, checked=1
+    personal: count=4, checked=1
+    projectst: count=1, checked=1
+    notblox: count=1, checked=1
+    affordable: count=1, checked=1
+    housing: count=2, checked=1
+    project: count=62, checked=1
+    assembling: count=1, checked=1
+    sustainable: count=1, checked=1
+    communities: count=1, checked=1
+    insulating: count=1, checked=1
+    concrete: count=1, checked=1
+    forms: count=2, checked=1
+    jury: count=1, checked=1
+    called: count=1, checked=1
+    this: count=8, checked=1
+    handsome: count=1, checked=1
+    sophisticated: count=1, checked=1
+    commended: count=1, checked=1
+    it: count=41, checked=1
+    its: count=5, checked=1
+    demonstration: count=1, checked=1
+    ease: count=1, checked=1
+    also: count=8, checked=1
+    demonstrated: count=1, checked=1
+    many: count=5, checked=1
+    options: count=2, checked=1
+    use: count=5, checked=1
+    vinyl: count=1, checked=1
+    s: count=48, checked=1
+    house: count=3, checked=1
+    passive: count=1, checked=1
+    form: count=5, checked=1
+    structure: count=1, checked=1
+    mechanical: count=3, checked=1
+    features: count=5, checked=1
+    building: count=8, checked=1
+    are: count=12, checked=1
+    integrated: count=3, checked=1
+    into: count=27, checked=1
+    single: count=2, checked=1
+    shell: count=15, checked=1
+    example: count=1, checked=1
+    louvers: count=1, checked=1
+    act: count=1, checked=1
+    along: count=5, checked=1
+    facade: count=3, checked=1
+    n: count=8, checked=1
+    novoresume: count=2, checked=1
+    copenhagen: count=1, checked=1
+    instagram: count=1, checked=1
+    presentation: count=5, checked=1
+    public: count=2, checked=1
+    speaking: count=1, checked=1
+    active: count=2, checked=1
+    listenting: count=1, checked=1
+    perseverance: count=1, checked=1
+    teamwork: count=1, checked=1
+    oral: count=1, checked=1
+    creativity: count=1, checked=1
+    solving: count=7, checked=1
+    technical: count=26, checked=1
+    graphics: count=2, checked=1
+    hand: count=4, checked=1
+    drafting: count=1, checked=1
+    sketching: count=1, checked=1
+    autodesk: count=2, checked=1
+    autocad: count=1, checked=1
+    arggis: count=1, checked=1
+    adobe: count=2, checked=1
+    creative: count=4, checked=1
+    cloud: count=34, checked=1
+    suite: count=3, checked=1
+    bim: count=1, checked=1
+    modeling: count=4, checked=1
+    sketchup: count=1, checked=1
+    pro: count=3, checked=1
+    su: count=1, checked=1
+    podium: count=1, checked=1
+    revit: count=1, checked=1
+    platforms: count=1, checked=1
+    windows: count=17, checked=1
+    osx: count=1, checked=1
+    operating: count=9, checked=1
+    microsoft: count=6, checked=1
+    office: count=3, checked=1
+    google: count=3, checked=1
+    drive: count=1, checked=1
+    docs: count=1, checked=1
+    other: count=11, checked=1
+    basic: count=2, checked=1
+    web: count=53, checked=1
+    development: count=56, checked=1
+    model: count=3, checked=1
+    darkroom: count=1, checked=1
+    techniques: count=5, checked=1
+    level: count=3, checked=1
+    digital: count=3, checked=1
+    film: count=1, checked=1
+    photography: count=1, checked=1
+    languages: count=15, checked=1
+    english: count=6, checked=1
+    sbeassas: count=1, checked=1
+    danish: count=1, checked=1
+    bea: count=1, checked=1
+    german: count=1, checked=1
+    sea: count=1, checked=1
+    spanish: count=1, checked=1
+    ae: count=1, checked=1
+    interests: count=3, checked=1
+    artificial: count=1, checked=1
+    intelligence: count=1, checked=1
+    virtual: count=4, checked=1
+    reality: count=1, checked=1
+    chess: count=1, checked=1
+    travelling: count=1, checked=1
+    painting: count=1, checked=1
+    marathons: count=1, checked=1
+    kayden: count=4, checked=1
+    zhao: count=3, checked=1
+    logical: count=1, checked=1
+    solution: count=8, checked=1
+    focused: count=1, checked=1
+    years: count=25, checked=1
+    remarkable: count=1, checked=1
+    providing: count=6, checked=1
+    comprehensive: count=2, checked=1
+    support: count=25, checked=1
+    adept: count=1, checked=1
+    at: count=8, checked=1
+    leveraging: count=1, checked=1
+    superior: count=1, checked=1
+    analytical: count=5, checked=1
+    prioritize: count=1, checked=1
+    identify: count=6, checked=1
+    issues: count=12, checked=1
+    provide: count=4, checked=1
+    timely: count=5, checked=1
+    resolutions: count=2, checked=1
+    possess: count=1, checked=1
+    incomparable: count=1, checked=1
+    abilities: count=2, checked=1
+    convey: count=1, checked=1
+    innovative: count=4, checked=1
+    ideas: count=3, checked=1
+    diverse: count=1, checked=1
+    audiences: count=1, checked=1
+    varying: count=1, checked=1
+    expertise: count=10, checked=1
+    supervisor: count=1, checked=1
+    nextgen: count=3, checked=1
+    supervise: count=2, checked=1
+    lead: count=3, checked=1
+    more: count=3, checked=1
+    than: count=3, checked=1
+    specialists: count=1, checked=1
+    responsible: count=9, checked=1
+    furnishing: count=1, checked=1
+    expert: count=3, checked=1
+    users: count=4, checked=1
+    devices: count=1, checked=1
+    city: count=2, checked=1
+    appraise: count=1, checked=1
+    emerging: count=1, checked=1
+    technologies: count=23, checked=1
+    hardware: count=5, checked=1
+    software: count=27, checked=1
+    strategic: count=1, checked=1
+    recommendations: count=1, checked=1
+    continuous: count=6, checked=1
+    improvements: count=1, checked=1
+    contribute: count=1, checked=1
+    delivery: count=9, checked=1
+    large: count=8, checked=1
+    scale: count=4, checked=1
+    company: count=13, checked=1
+    such: count=15, checked=1
+    computer: count=11, checked=1
+    system: count=27, checked=1
+    upgrades: count=2, checked=1
+    migration: count=10, checked=1
+    within: count=6, checked=1
+    specified: count=3, checked=1
+    timeline: count=2, checked=1
+    budget: count=2, checked=1
+    collaborating: count=2, checked=1
+    teams: count=7, checked=1
+    manage: count=2, checked=1
+    annual: count=1, checked=1
+    keeping: count=1, checked=1
+    track: count=3, checked=1
+    expenditures: count=1, checked=1
+    ensure: count=5, checked=1
+    alignment: count=1, checked=1
+    budgetary: count=1, checked=1
+    limits: count=1, checked=1
+    negotiate: count=1, checked=1
+    vendors: count=1, checked=1
+    reach: count=1, checked=1
+    mutually: count=1, checked=1
+    beneficial: count=1, checked=1
+    deals: count=2, checked=1
+    reducing: count=8, checked=1
+    equipment: count=2, checked=1
+    costs: count=5, checked=1
+    specialist: count=2, checked=1
+    initar: count=1, checked=1
+    inc: count=2, checked=1
+    oversaw: count=1, checked=1
+    computers: count=2, checked=1
+    configuring: count=4, checked=1
+    implemented: count=15, checked=1
+    innovated: count=1, checked=1
+    connectivity: count=2, checked=1
+    network: count=8, checked=1
+    configurations: count=1, checked=1
+    which: count=18, checked=1
+    remarkably: count=1, checked=1
+    boosted: count=1, checked=1
+    overall: count=3, checked=1
+    capabilities: count=1, checked=1
+    spearheaded: count=1, checked=1
+    installation: count=3, checked=1
+    desktop: count=1, checked=1
+    during: count=3, checked=1
+    wide: count=3, checked=1
+    upgrade: count=1, checked=1
+    evaluated: count=2, checked=1
+    efficiency: count=4, checked=1
+    security: count=12, checked=1
+    data: count=183, checked=1
+    storage: count=6, checked=1
+    intouch: count=1, checked=1
+    awards: count=2, checked=1
+    technology: count=21, checked=1
+    leader: count=1, checked=1
+    niss: count=1, checked=1
+    e: count=26, checked=1
+    bachelor: count=7, checked=1
+    madison: count=1, checked=1
+    area: count=6, checked=1
+    college: count=7, checked=1
+    oshkosh: count=1, checked=1
+    wi: count=1, checked=1
+    github: count=8, checked=1
+    areas: count=3, checked=1
+    complex: count=8, checked=1
+    effective: count=2, checked=1
+    training: count=3, checked=1
+    logic: count=10, checked=1
+    reasoning: count=1, checked=1
+    collaboration: count=1, checked=1
+    leadership: count=3, checked=1
+    deployment: count=9, checked=1
+    toolkit: count=1, checked=1
+    mdt: count=1, checked=1
+    certificates: count=1, checked=1
+    cisco: count=1, checked=1
+    certified: count=7, checked=1
+    associate: count=6, checked=1
+    ccna: count=1, checked=1
+    comptia: count=1, checked=1
+    technician: count=6, checked=1
+    vier: count=1, checked=1
+    eg: count=1, checked=1
+    vio: count=1, checked=1
+    wes: count=1, checked=1
+    cctp: count=1, checked=1
+    certification: count=5, checked=1
+    bwa: count=1, checked=1
+    nel: count=1, checked=1
+    ss: count=1, checked=1
+    native: count=4, checked=1
+    or: count=12, checked=1
+    bilingual: count=3, checked=1
+    proficiency: count=3, checked=1
+    korean: count=1, checked=1
+    full: count=7, checked=1
+    japanese: count=1, checked=1
+    limited: count=5, checked=1
+    knightley: count=2, checked=1
+    email: count=9, checked=1
+    linkedin: count=6, checked=1
+    yelp: count=1, checked=1
+    current: count=6, checked=1
+    seattle: count=3, checked=1
+    wa: count=7, checked=1
+    collaborated: count=3, checked=1
+    interns: count=1, checked=1
+    answer: count=2, checked=1
+    phone: count=5, checked=1
+    calls: count=4, checked=1
+    emails: count=1, checked=1
+    chat: count=2, checked=1
+    messages: count=5, checked=1
+    per: count=16, checked=1
+    day: count=5, checked=1
+    communicated: count=1, checked=1
+    schedule: count=1, checked=1
+    appointments: count=1, checked=1
+    resolve: count=7, checked=1
+    maintained: count=3, checked=1
+    thorough: count=1, checked=1
+    manual: count=1, checked=1
+    increasing: count=2, checked=1
+    diagnose: count=1, checked=1
+    repair: count=2, checked=1
+    time: count=8, checked=1
+    inspected: count=1, checked=1
+    suggested: count=1, checked=1
+    repairs: count=2, checked=1
+    replacements: count=1, checked=1
+    tech: count=7, checked=1
+    create: count=6, checked=1
+    sql: count=76, checked=1
+    queries: count=12, checked=1
+    scripts: count=16, checked=1
+    boosting: count=1, checked=1
+    customers: count=7, checked=1
+    washington: count=3, checked=1
+    state: count=8, checked=1
+    help: count=2, checked=1
+    desk: count=1, checked=1
+    pullman: count=3, checked=1
+    diagnosed: count=1, checked=1
+    resolved: count=2, checked=1
+    laptops: count=1, checked=1
+    phones: count=1, checked=1
+    students: count=2, checked=1
+    operated: count=1, checked=1
+    address: count=2, checked=1
+    immediate: count=1, checked=1
+    concerns: count=2, checked=1
+    resolving: count=2, checked=1
+    inquiries: count=2, checked=1
+    minutes: count=1, checked=1
+    average: count=2, checked=1
+    fax: count=1, checked=1
+    machines: count=1, checked=1
+    printers: count=1, checked=1
+    copiers: count=1, checked=1
+    performing: count=6, checked=1
+    minor: count=3, checked=1
+    saving: count=1, checked=1
+    k: count=11, checked=1
+    year: count=5, checked=1
+    take: count=1, checked=1
+    home: count=5, checked=1
+    booklets: count=1, checked=1
+    number: count=1, checked=1
+    unresolved: count=2, checked=1
+    tickets: count=4, checked=1
+    study: count=4, checked=1
+    dept: count=2, checked=1
+    screened: count=1, checked=1
+    candidates: count=1, checked=1
+    provided: count=3, checked=1
+    including: count=3, checked=1
+    rules: count=4, checked=1
+    policies: count=3, checked=1
+    recorded: count=1, checked=1
+    cleaned: count=1, checked=1
+    resulting: count=1, checked=1
+    errors: count=2, checked=1
+    finished: count=1, checked=1
+    datasheets: count=1, checked=1
+    analyzed: count=2, checked=1
+    individual: count=2, checked=1
+    budgets: count=1, checked=1
+    discrepancies: count=1, checked=1
+    extraneous: count=1, checked=1
+    spending: count=1, checked=1
+    answered: count=1, checked=1
+    about: count=9, checked=1
+    participant: count=1, checked=1
+    eligibility: count=1, checked=1
+    objective: count=8, checked=1
+    flexible: count=3, checked=1
+    attentive: count=1, checked=1
+    entry: count=1, checked=1
+    valuable: count=1, checked=1
+    infrastructure: count=2, checked=1
+    looking: count=1, checked=1
+    join: count=4, checked=1
+    centerline: count=1, checked=1
+    logistics: count=1, checked=1
+    corporation: count=1, checked=1
+    an: count=21, checked=1
+    helpdesk: count=1, checked=1
+    assist: count=2, checked=1
+    internal: count=3, checked=1
+    develop: count=12, checked=1
+    program: count=2, checked=1
+    conflict: count=1, checked=1
+    life: count=11, checked=1
+    cycle: count=7, checked=1
+    sdlc: count=8, checked=1
+    python: count=41, checked=1
+    interpersonal: count=2, checked=1
+    rohit: count=2, checked=1
+    kulkarni: count=2, checked=1
+    engineering: count=14, checked=1
+    analyst: count=7, checked=1
+    competent: count=2, checked=1
+    etl: count=48, checked=1
+    developer: count=45, checked=1
+    integration: count=16, checked=1
+    using: count=135, checked=1
+    intelligent: count=2, checked=1
+    informatica: count=52, checked=1
+    services: count=49, checked=1
+    iics: count=4, checked=1
+    i: count=19, checked=1
+    passionate: count=2, checked=1
+    learner: count=2, checked=1
+    keen: count=1, checked=1
+    interest: count=1, checked=1
+    warehousing: count=12, checked=1
+    snowﬂake: count=4, checked=1
+    aws: count=29, checked=1
+    emr: count=6, checked=1
+    autosys: count=15, checked=1
+    business: count=45, checked=1
+    requirements: count=18, checked=1
+    gathering: count=4, checked=1
+    understanding: count=13, checked=1
+    ﬂow: count=1, checked=1
+    kulkarnirohit: count=1, checked=1
+    nagpur: count=1, checked=1
+    india: count=6, checked=1
+    august: count=3, checked=1
+    accenture: count=8, checked=1
+    present: count=10, checked=1
+    pune: count=1, checked=1
+    enhanced: count=1, checked=1
+    multiple: count=6, checked=1
+    database: count=39, checked=1
+    objects: count=2, checked=1
+    writing: count=16, checked=1
+    optimized: count=3, checked=1
+    improved: count=2, checked=1
+    query: count=1, checked=1
+    proﬁle: count=1, checked=1
+    complexity: count=1, checked=1
+    serve: count=2, checked=1
+    regulatory: count=1, checked=1
+    high: count=4, checked=1
+    volume: count=3, checked=1
+    datasets: count=3, checked=1
+    coordinated: count=1, checked=1
+    onshore: count=1, checked=1
+    oﬀshore: count=1, checked=1
+    functional: count=6, checked=1
+    qa: count=2, checked=1
+    analyze: count=5, checked=1
+    improve: count=3, checked=1
+    produce: count=2, checked=1
+    accurate: count=1, checked=1
+    defect: count=6, checked=1
+    free: count=3, checked=1
+    code: count=34, checked=1
+    managing: count=5, checked=1
+    incidents: count=5, checked=1
+    ensuring: count=2, checked=1
+    manner: count=1, checked=1
+    rally: count=3, checked=1
+    hotﬁx: count=1, checked=1
+    path: count=2, checked=1
+    managed: count=5, checked=1
+    critical: count=4, checked=1
+    migrations: count=1, checked=1
+    production: count=16, checked=1
+    via: count=2, checked=1
+    devops: count=9, checked=1
+    jenkins: count=14, checked=1
+    engaged: count=1, checked=1
+    closely: count=3, checked=1
+    downstream: count=2, checked=1
+    partners: count=1, checked=1
+    formal: count=1, checked=1
+    informal: count=1, checked=1
+    environments: count=6, checked=1
+    gain: count=1, checked=1
+    approvals: count=1, checked=1
+    overcome: count=1, checked=1
+    obstacles: count=1, checked=1
+    application: count=50, checked=1
+    mumbai: count=2, checked=1
+    worked: count=54, checked=1
+    us: count=3, checked=1
+    finance: count=2, checked=1
+    client: count=43, checked=1
+    from: count=57, checked=1
+    scratch: count=2, checked=1
+    taskﬂows: count=1, checked=1
+    tuned: count=2, checked=1
+    parameterization: count=2, checked=1
+    pushdown: count=1, checked=1
+    optimization: count=4, checked=1
+    eﬃcient: count=1, checked=1
+    loads: count=2, checked=1
+    generating: count=3, checked=1
+    ﬁle: count=1, checked=1
+    extracts: count=1, checked=1
+    spark: count=21, checked=1
+    framework: count=20, checked=1
+    automation: count=16, checked=1
+    sop: count=1, checked=1
+    document: count=7, checked=1
+    schemas: count=2, checked=1
+    enabled: count=1, checked=1
+    standardization: count=1, checked=1
+    implementation: count=9, checked=1
+    best: count=4, checked=1
+    practices: count=2, checked=1
+    achievement: count=1, checked=1
+    growth: count=1, checked=1
+    catalyst: count=1, checked=1
+    ace: count=1, checked=1
+    etc: count=9, checked=1
+    yeshwantrao: count=1, checked=1
+    chavan: count=1, checked=1
+    cgpa: count=3, checked=1
+    hsc: count=1, checked=1
+    p: count=9, checked=1
+    deo: count=1, checked=1
+    memorial: count=1, checked=1
+    linux: count=10, checked=1
+    robotic: count=1, checked=1
+    spraying: count=1, checked=1
+    machine: count=1, checked=1
+    paper: count=1, checked=1
+    published: count=3, checked=1
+    international: count=2, checked=1
+    journal: count=1, checked=1
+    scientiﬁc: count=1, checked=1
+    ijsrst: count=1, checked=1
+    march: count=7, checked=1
+    issue: count=4, checked=1
+    iot: count=2, checked=1
+    blynk: count=2, checked=1
+    app: count=5, checked=1
+    controlling: count=2, checked=1
+    appliances: count=1, checked=1
+    esp: count=1, checked=1
+    certifications: count=4, checked=1
+    hands: count=15, checked=1
+    essentials: count=2, checked=1
+    warehouse: count=12, checked=1
+    coursera: count=2, checked=1
+    version: count=11, checked=1
+    control: count=13, checked=1
+    git: count=13, checked=1
+    proﬁciency: count=3, checked=1
+    marathi: count=1, checked=1
+    hindi: count=2, checked=1
+    badminton: count=1, checked=1
+    music: count=2, checked=1
+    cricket: count=1, checked=1
+    pratiksha: count=1, checked=1
+    salunke: count=1, checked=1
+    mail: count=7, checked=1
+    id: count=4, checked=1
+    salunkepratiksha: count=1, checked=1
+    mobile: count=11, checked=1
+    career: count=6, checked=1
+    be: count=6, checked=1
+    part: count=6, checked=1
+    organization: count=10, checked=1
+    global: count=5, checked=1
+    presence: count=1, checked=1
+    consciously: count=1, checked=1
+    constantly: count=1, checked=1
+    strive: count=1, checked=1
+    commitment: count=2, checked=1
+    dedicated: count=1, checked=1
+    diligence: count=1, checked=1
+    organizational: count=1, checked=1
+    processing: count=13, checked=1
+    relational: count=5, checked=1
+    flat: count=9, checked=1
+    file: count=9, checked=1
+    formats: count=3, checked=1
+    have: count=10, checked=1
+    capability: count=1, checked=1
+    understand: count=1, checked=1
+    mappings: count=18, checked=1
+    preparing: count=2, checked=1
+    documents: count=4, checked=1
+    sessions: count=5, checked=1
+    workflows: count=6, checked=1
+    followed: count=4, checked=1
+    quality: count=8, checked=1
+    standards: count=4, checked=1
+    performed: count=3, checked=1
+    unit: count=13, checked=1
+    test: count=13, checked=1
+    plan: count=3, checked=1
+    testing: count=28, checked=1
+    ing: count=3, checked=1
+    dimensional: count=2, checked=1
+    star: count=3, checked=1
+    schema: count=2, checked=1
+    snowflake: count=1, checked=1
+    fact: count=2, checked=1
+    dimensions: count=3, checked=1
+    tables: count=15, checked=1
+    tuning: count=10, checked=1
+    end: count=12, checked=1
+    workflow: count=10, checked=1
+    source: count=15, checked=1
+    target: count=6, checked=1
+    endpoints: count=1, checked=1
+    needed: count=4, checked=1
+    quick: count=1, checked=1
+    excellent: count=2, checked=1
+    player: count=3, checked=1
+    meet: count=1, checked=1
+    tight: count=1, checked=1
+    deadlines: count=2, checked=1
+    under: count=2, checked=1
+    pressure: count=1, checked=1
+    educational: count=2, checked=1
+    qualification: count=4, checked=1
+    electronic: count=1, checked=1
+    oracle: count=40, checked=1
+    g: count=9, checked=1
+    pl: count=10, checked=1
+    tools: count=34, checked=1
+    power: count=15, checked=1
+    center: count=15, checked=1
+    x: count=5, checked=1
+    unix: count=22, checked=1
+    xml: count=19, checked=1
+    parvat: count=1, checked=1
+    kanavat: count=1, checked=1
+    rajkot: count=4, checked=1
+    gujarat: count=5, checked=1
+    pkanavat: count=1, checked=1
+    willing: count=1, checked=1
+    relocate: count=1, checked=1
+    patel: count=1, checked=1
+    express: count=1, checked=1
+    cargo: count=1, checked=1
+    am: count=4, checked=1
+    here: count=2, checked=1
+    operator: count=2, checked=1
+    finding: count=1, checked=1
+    job: count=13, checked=1
+    travels: count=1, checked=1
+    saurastra: count=1, checked=1
+    doing: count=2, checked=1
+    oprater: count=1, checked=1
+    parcel: count=3, checked=1
+    booking: count=4, checked=1
+    ticket: count=4, checked=1
+    accounting: count=2, checked=1
+    manager: count=8, checked=1
+    call: count=1, checked=1
+    infinity: count=1, checked=1
+    travel: count=2, checked=1
+    september: count=2, checked=1
+    january: count=1, checked=1
+    pass: count=2, checked=1
+    networking: count=1, checked=1
+    repairing: count=1, checked=1
+    less: count=1, checked=1
+    links: count=1, checked=1
+    http: count=2, checked=1
+    www: count=1, checked=1
+    facebook: count=1, checked=1
+    parvatsinh: count=1, checked=1
+    rajput: count=1, checked=1
+    additional: count=2, checked=1
+    don: count=2, checked=1
+    t: count=8, checked=1
+    any: count=2, checked=1
+    bed: count=1, checked=1
+    habit: count=1, checked=1
+    insecure: count=1, checked=1
+    do: count=2, checked=1
+    honest: count=1, checked=1
+    ritvik: count=3, checked=1
+    bhavan: count=3, checked=1
+    engineer: count=15, checked=1
+    consultant: count=4, checked=1
+    https: count=1, checked=1
+    b: count=15, checked=1
+    ab: count=1, checked=1
+    profile: count=5, checked=1
+    focus: count=1, checked=1
+    ibm: count=15, checked=1
+    infosphere: count=3, checked=1
+    datastage: count=7, checked=1
+    developing: count=24, checked=1
+    jobs: count=19, checked=1
+    server: count=38, checked=1
+    parallel: count=1, checked=1
+    months: count=2, checked=1
+    openui: count=2, checked=1
+    javascript: count=14, checked=1
+    persistent: count=1, checked=1
+    aug: count=5, checked=1
+    till: count=12, checked=1
+    date: count=15, checked=1
+    details: count=5, checked=1
+    sas: count=2, checked=1
+    ui: count=9, checked=1
+    duration: count=13, checked=1
+    december: count=3, checked=1
+    may: count=11, checked=1
+    description: count=14, checked=1
+    products: count=4, checked=1
+    flex: count=1, checked=1
+    html: count=19, checked=1
+    role: count=15, checked=1
+    responsibilities: count=21, checked=1
+    components: count=10, checked=1
+    creating: count=33, checked=1
+    stories: count=3, checked=1
+    jira: count=15, checked=1
+    cas: count=1, checked=1
+    es: count=1, checked=1
+    yahoo: count=2, checked=1
+    now: count=4, checked=1
+    load: count=16, checked=1
+    real: count=3, checked=1
+    marts: count=3, checked=1
+    scheduler: count=5, checked=1
+    pimpri: count=1, checked=1
+    chinchwad: count=1, checked=1
+    enginee: count=1, checked=1
+    ring: count=1, checked=1
+    akurdi: count=1, checked=1
+    higher: count=1, checked=1
+    secondary: count=3, checked=1
+    senior: count=2, checked=1
+    azure: count=10, checked=1
+    fundamentals: count=4, checked=1
+    practitioner: count=2, checked=1
+    key: count=4, checked=1
+    talend: count=10, checked=1
+    factory: count=4, checked=1
+    mysql: count=24, checked=1
+    scripting: count=11, checked=1
+    java: count=31, checked=1
+    eclipse: count=8, checked=1
+    pycharm: count=4, checked=1
+    atlassian: count=1, checked=1
+    environment: count=30, checked=1
+    ms: count=6, checked=1
+    page: count=2, checked=1
+    resume: count=1, checked=1
+    venuu: count=1, checked=1
+    venu: count=1, checked=1
+    seeking: count=2, checked=1
+    technically: count=2, checked=1
+    challenging: count=5, checked=1
+    position: count=3, checked=1
+    highly: count=2, checked=1
+    motivated: count=3, checked=1
+    progressive: count=1, checked=1
+    fri: count=1, checked=1
+    endly: count=1, checked=1
+    these: count=3, checked=1
+    allow: count=2, checked=1
+    pursuit: count=1, checked=1
+    advancement: count=1, checked=1
+    expand: count=1, checked=1
+    big: count=8, checked=1
+    stream: count=4, checked=1
+    kafka: count=3, checked=1
+    hadoop: count=22, checked=1
+    hdfs: count=22, checked=1
+    map: count=3, checked=1
+    reduce: count=2, checked=1
+    latform: count=1, checked=1
+    concepts: count=7, checked=1
+    pyspark: count=29, checked=1
+    rdd: count=1, checked=1
+    pandas: count=3, checked=1
+    like: count=54, checked=1
+    nd: count=1, checked=1
+    elt: count=2, checked=1
+    handling: count=4, checked=1
+    different: count=26, checked=1
+    structured: count=5, checked=1
+    semi: count=3, checked=1
+    unstructured: count=1, checked=1
+    waterfall: count=1, checked=1
+    methodologie: count=1, checked=1
+    agile: count=18, checked=1
+    complete: count=2, checked=1
+    de: count=1, checked=1
+    velopment: count=1, checked=1
+    implement: count=4, checked=1
+    bi: count=3, checked=1
+    learn: count=1, checked=1
+    rapidly: count=1, checked=1
+    them: count=1, checked=1
+    july: count=12, checked=1
+    academic: count=4, checked=1
+    rofile: count=1, checked=1
+    jntu: count=2, checked=1
+    aggregate: count=6, checked=1
+    diploma: count=2, checked=1
+    board: count=3, checked=1
+    ssc: count=2, checked=1
+    gpa: count=1, checked=1
+    health: count=12, checked=1
+    title: count=2, checked=1
+    size: count=1, checked=1
+    r: count=6, checked=1
+    dd: count=1, checked=1
+    bricka: count=1, checked=1
+    jupyter: count=2, checked=1
+    hive: count=40, checked=1
+    bit: count=1, checked=1
+    bucket: count=5, checked=1
+    vinodhini: count=2, checked=1
+    eagambaram: count=1, checked=1
+    almost: count=1, checked=1
+    designing: count=8, checked=1
+    applications: count=16, checked=1
+    ecosystem: count=3, checked=1
+    sqoop: count=13, checked=1
+    apache: count=25, checked=1
+    related: count=6, checked=1
+    querying: count=2, checked=1
+    analysis: count=20, checked=1
+    understands: count=1, checked=1
+    needs: count=4, checked=1
+    codes: count=1, checked=1
+    modules: count=4, checked=1
+    those: count=2, checked=1
+    capable: count=1, checked=1
+    sets: count=2, checked=1
+    ats: count=1, checked=1
+    json: count=12, checked=1
+    avro: count=2, checked=1
+    files: count=24, checked=1
+    text: count=2, checked=1
+    loaded: count=4, checked=1
+    transformed: count=1, checked=1
+    likes: count=1, checked=1
+    parquet: count=2, checked=1
+    queried: count=1, checked=1
+    top: count=4, checked=1
+    engine: count=1, checked=1
+    faster: count=1, checked=1
+    running: count=5, checked=1
+    partitioning: count=6, checked=1
+    dynamic: count=5, checked=1
+    bucketing: count=3, checked=1
+    efficient: count=3, checked=1
+    access: count=5, checked=1
+    url: count=1, checked=1
+    scala: count=2, checked=1
+    converted: count=1, checked=1
+    frames: count=2, checked=1
+    further: count=4, checked=1
+    transformations: count=15, checked=1
+    generated: count=5, checked=1
+    after: count=2, checked=1
+    easy: count=1, checked=1
+    analyzing: count=10, checked=1
+    installing: count=1, checked=1
+    ecosy: count=1, checked=1
+    stem: count=1, checked=1
+    brought: count=1, checked=1
+    simplification: count=1, checked=1
+    initiatives: count=2, checked=1
+    bring: count=1, checked=1
+    deploying: count=6, checked=1
+    cluster: count=4, checked=1
+    step: count=4, checked=1
+    execution: count=5, checked=1
+    used: count=59, checked=1
+    methodology: count=14, checked=1
+    progress: count=1, checked=1
+    base: count=1, checked=1
+    ready: count=2, checked=1
+    innovate: count=1, checked=1
+    order: count=2, checked=1
+    perform: count=2, checked=1
+    sk: count=2, checked=1
+    ills: count=2, checked=1
+    eco: count=2, checked=1
+    distribution: count=2, checked=1
+    cloudera: count=1, checked=1
+    databases: count=10, checked=1
+    brokaw: count=1, checked=1
+    art: count=4, checked=1
+    director: count=2, checked=1
+    collaborate: count=1, checked=1
+    unexpected: count=1, checked=1
+    strategy: count=4, checked=1
+    campaigns: count=3, checked=1
+    start: count=2, checked=1
+    finish: count=1, checked=1
+    accountable: count=1, checked=1
+    variety: count=2, checked=1
+    collateral: count=1, checked=1
+    content: count=2, checked=1
+    direct: count=1, checked=1
+    photo: count=2, checked=1
+    shoots: count=2, checked=1
+    drink: count=1, checked=1
+    lot: count=1, checked=1
+    worst: count=1, checked=1
+    coffee: count=1, checked=1
+    great: count=2, checked=1
+    lakes: count=1, checked=1
+    beer: count=1, checked=1
+    marcus: count=1, checked=1
+    thomas: count=1, checked=1
+    direction: count=1, checked=1
+    assets: count=1, checked=1
+    existing: count=6, checked=1
+    designed: count=8, checked=1
+    identity: count=1, checked=1
+    one: count=8, checked=1
+    agency: count=1, checked=1
+    largest: count=5, checked=1
+    studio: count=4, checked=1
+    handmodel: count=1, checked=1
+    pet: count=1, checked=1
+    dogs: count=1, checked=1
+    punk: count=1, checked=1
+    talks: count=1, checked=1
+    designer: count=13, checked=1
+    punktalks: count=1, checked=1
+    org: count=1, checked=1
+    launch: count=1, checked=1
+    custom: count=2, checked=1
+    wordpress: count=2, checked=1
+    site: count=1, checked=1
+    advocated: count=1, checked=1
+    that: count=15, checked=1
+    you: count=1, checked=1
+    sad: count=1, checked=1
+    make: count=5, checked=1
+    go: count=1, checked=1
+    graphic: count=3, checked=1
+    directly: count=1, checked=1
+    brand: count=1, checked=1
+    identities: count=1, checked=1
+    website: count=1, checked=1
+    materials: count=1, checked=1
+    weapons: count=1, checked=1
+    mass: count=1, checked=1
+    creation: count=1, checked=1
+    fest: count=1, checked=1
+    made: count=2, checked=1
+    photoshop: count=2, checked=1
+    mockups: count=1, checked=1
+    arsenal: count=1, checked=1
+    store: count=3, checked=1
+    mastered: count=1, checked=1
+    pen: count=1, checked=1
+    tool: count=24, checked=1
+    recognition: count=1, checked=1
+    adweek: count=1, checked=1
+    lake: count=1, checked=1
+    view: count=5, checked=1
+    cemetery: count=1, checked=1
+    campaign: count=1, checked=1
+    billboards: count=1, checked=1
+    contact: count=2, checked=1
+    hello: count=1, checked=1
+    allisonbeer: count=2, checked=1
+    behance: count=1, checked=1
+    net: count=2, checked=1
+    miami: count=1, checked=1
+    f: count=2, checked=1
+    minors: count=1, checked=1
+    interactive: count=2, checked=1
+    honors: count=1, checked=1
+    summa: count=1, checked=1
+    cum: count=1, checked=1
+    laude: count=1, checked=1
+    stamps: count=1, checked=1
+    scholar: count=1, checked=1
+    president: count=1, checked=1
+    list: count=5, checked=1
+    illustrator: count=1, checked=1
+    indesign: count=1, checked=1
+    premiere: count=1, checked=1
+    css: count=16, checked=1
+    sass: count=1, checked=1
+    miscellaneous: count=1, checked=1
+    letterpress: count=1, checked=1
+    printing: count=1, checked=1
+    prototyping: count=1, checked=1
+    invision: count=1, checked=1
+    axure: count=1, checked=1
+    veeraprasad: count=1, checked=1
+    manubo: count=1, checked=1
+    lu: count=1, checked=1
+    manuboluveeraprasad: count=1, checked=1
+    pursue: count=1, checked=1
+    field: count=1, checked=1
+    become: count=1, checked=1
+    programmer: count=1, checked=1
+    rest: count=11, checked=1
+    apis: count=5, checked=1
+    api: count=16, checked=1
+    django: count=8, checked=1
+    front: count=3, checked=1
+    postgresql: count=8, checked=1
+    numpy: count=3, checked=1
+    pands: count=1, checked=1
+    committed: count=1, checked=1
+    goal: count=2, checked=1
+    oriented: count=4, checked=1
+    learns: count=1, checked=1
+    things: count=2, checked=1
+    handle: count=4, checked=1
+    assignments: count=1, checked=1
+    concurrently: count=1, checked=1
+    cross: count=3, checked=1
+    able: count=2, checked=1
+    communicate: count=4, checked=1
+    levels: count=5, checked=1
+    personnel: count=1, checked=1
+    electronics: count=1, checked=1
+    frameworks: count=6, checked=1
+    restapi: count=1, checked=1
+    scm: count=1, checked=1
+    jupiter: count=1, checked=1
+    notebook: count=2, checked=1
+    orm: count=4, checked=1
+    prasang: count=2, checked=1
+    agarwal: count=1, checked=1
+    male: count=2, checked=1
+    icloud: count=1, checked=1
+    kanpur: count=1, checked=1
+    requirement: count=14, checked=1
+    postproduction: count=1, checked=1
+    teradata: count=7, checked=1
+    tableau: count=3, checked=1
+    exports: count=1, checked=1
+    kpsl: count=1, checked=1
+    itechpath: count=1, checked=1
+    private: count=5, checked=1
+    nov: count=6, checked=1
+    shipping: count=1, checked=1
+    industry: count=4, checked=1
+    giant: count=2, checked=1
+    task: count=5, checked=1
+    member: count=1, checked=1
+    where: count=7, checked=1
+    is: count=39, checked=1
+    done: count=2, checked=1
+    ssms: count=1, checked=1
+    cognos: count=1, checked=1
+    automate: count=5, checked=1
+    interact: count=3, checked=1
+    daily: count=4, checked=1
+    acting: count=1, checked=1
+    both: count=1, checked=1
+    while: count=3, checked=1
+    monitor: count=6, checked=1
+    proper: count=2, checked=1
+    incident: count=3, checked=1
+    achieved: count=1, checked=1
+    follow: count=1, checked=1
+    escalation: count=1, checked=1
+    priority: count=2, checked=1
+    enhancement: count=3, checked=1
+    failover: count=1, checked=1
+    pr: count=1, checked=1
+    imary: count=1, checked=1
+    subhash: count=1, checked=1
+    agro: count=1, checked=1
+    industries: count=1, checked=1
+    pvt: count=9, checked=1
+    ltd: count=13, checked=1
+    sep: count=4, checked=1
+    apr: count=2, checked=1
+    goods: count=1, checked=1
+    staff: count=1, checked=1
+    en: count=1, checked=1
+    sure: count=1, checked=1
+    phase: count=7, checked=1
+    club: count=1, checked=1
+    jun: count=2, checked=1
+    changes: count=1, checked=1
+    very: count=3, checked=1
+    few: count=1, checked=1
+    members: count=4, checked=1
+    know: count=1, checked=1
+    delivered: count=2, checked=1
+    module: count=8, checked=1
+    previous: count=1, checked=1
+    suggestions: count=1, checked=1
+    save: count=1, checked=1
+    hours: count=3, checked=1
+    effort: count=2, checked=1
+    telecommunications: count=1, checked=1
+    firm: count=3, checked=1
+    feb: count=5, checked=1
+    sharp: count=1, checked=1
+    learning: count=2, checked=1
+    curve: count=1, checked=1
+    expectations: count=2, checked=1
+    completed: count=7, checked=1
+    developments: count=1, checked=1
+    tester: count=1, checked=1
+    pc: count=2, checked=1
+    deciding: count=1, checked=1
+    deliverables: count=2, checked=1
+    fixed: count=2, checked=1
+    change: count=6, checked=1
+    requests: count=2, checked=1
+    multinational: count=1, checked=1
+    telecommuni: count=1, checked=1
+    cations: count=1, checked=1
+    jan: count=4, checked=1
+    entire: count=3, checked=1
+    pipeline: count=10, checked=1
+    turned: count=1, checked=1
+    around: count=3, checked=1
+    through: count=10, checked=1
+    saved: count=1, checked=1
+    lots: count=2, checked=1
+    expected: count=1, checked=1
+    insightful: count=1, checked=1
+    flow: count=4, checked=1
+    relevant: count=2, checked=1
+    insights: count=2, checked=1
+    historical: count=1, checked=1
+    maximizing: count=1, checked=1
+    output: count=3, checked=1
+    useful: count=2, checked=1
+    reporting: count=9, checked=1
+    analysing: count=2, checked=1
+    purpose: count=2, checked=1
+    consistently: count=1, checked=1
+    appreciated: count=1, checked=1
+    coming: count=2, checked=1
+    up: count=10, checked=1
+    practical: count=1, checked=1
+    include: count=1, checked=1
+    final: count=1, checked=1
+    learnt: count=2, checked=1
+    mks: count=1, checked=1
+    hp: count=2, checked=1
+    centre: count=3, checked=1
+    acre: count=1, checked=1
+    hub: count=1, checked=1
+    another: count=1, checked=1
+    self: count=2, checked=1
+    teach: count=1, checked=1
+    came: count=1, checked=1
+    excel: count=1, checked=1
+    reports: count=8, checked=1
+    acros: count=1, checked=1
+    send: count=4, checked=1
+    he: count=1, checked=1
+    status: count=11, checked=1
+    availability: count=3, checked=1
+    learned: count=1, checked=1
+    sap: count=2, checked=1
+    object: count=6, checked=1
+    month: count=5, checked=1
+    long: count=1, checked=1
+    intensive: count=1, checked=1
+    me: count=1, checked=1
+    got: count=3, checked=1
+    chance: count=1, checked=1
+    live: count=1, checked=1
+    care: count=5, checked=1
+    sahana: count=1, checked=1
+    bangalore: count=3, checked=1
+    karnataka: count=3, checked=1
+    mob: count=1, checked=1
+    sahanateligi: count=1, checked=1
+    out: count=3, checked=1
+    programming: count=8, checked=1
+    pipelines: count=6, checked=1
+    contour: count=3, checked=1
+    repositories: count=2, checked=1
+    checks: count=3, checked=1
+    lineage: count=3, checked=1
+    graph: count=2, checked=1
+    palantir: count=5, checked=1
+    platform: count=7, checked=1
+    tata: count=4, checked=1
+    consultancy: count=4, checked=1
+    tcs: count=4, checked=1
+    since: count=2, checked=1
+    dash: count=1, checked=1
+    boards: count=1, checked=1
+    connection: count=2, checked=1
+    currently: count=1, checked=1
+    foundry: count=4, checked=1
+    reinsurance: count=1, checked=1
+    huge: count=2, checked=1
+    flows: count=1, checked=1
+    batch: count=8, checked=1
+    quarterly: count=2, checked=1
+    corrected: count=1, checked=1
+    onboarding: count=1, checked=1
+    ingesting: count=2, checked=1
+    sftp: count=1, checked=1
+    da: count=1, checked=1
+    ta: count=2, checked=1
+    sources: count=10, checked=1
+    enriching: count=1, checked=1
+    validations: count=2, checked=1
+    fusion: count=2, checked=1
+    sheets: count=2, checked=1
+    workbook: count=1, checked=1
+    usable: count=2, checked=1
+    format: count=2, checked=1
+    down: count=3, checked=1
+    streams: count=2, checked=1
+    error: count=1, checked=1
+    story: count=1, checked=1
+    gradation: count=1, checked=1
+    debugging: count=3, checked=1
+    interaction: count=1, checked=1
+    seamless: count=2, checked=1
+    bug: count=3, checked=1
+    shriakhil: count=1, checked=1
+    gwalior: count=1, checked=1
+    madhya: count=1, checked=1
+    radesh: count=1, checked=1
+    akhil: count=2, checked=1
+    shrivastava: count=2, checked=1
+    financial: count=5, checked=1
+    transactions: count=4, checked=1
+    databricks: count=5, checked=1
+    get: count=2, checked=1
+    logics: count=5, checked=1
+    prepare: count=2, checked=1
+    clean: count=1, checked=1
+    aggregated: count=1, checked=1
+    transaction: count=4, checked=1
+    shoppers: count=1, checked=1
+    behavior: count=1, checked=1
+    visuals: count=1, checked=1
+    sqls: count=1, checked=1
+    refreshes: count=1, checked=1
+    o: count=6, checked=1
+    triggers: count=6, checked=1
+    rws: count=2, checked=1
+    moravia: count=2, checked=1
+    june: count=8, checked=1
+    integrate: count=4, checked=1
+    local: count=1, checked=1
+    then: count=2, checked=1
+    mash: count=1, checked=1
+    sales: count=3, checked=1
+    deliver: count=4, checked=1
+    aim: count=1, checked=1
+    improving: count=2, checked=1
+    cost: count=1, checked=1
+    has: count=4, checked=1
+    scalable: count=2, checked=1
+    distributed: count=2, checked=1
+    involved: count=22, checked=1
+    ingestion: count=2, checked=1
+    proj: count=1, checked=1
+    ect: count=1, checked=1
+    capstone: count=1, checked=1
+    battle: count=1, checked=1
+    neighborhoods: count=3, checked=1
+    statement: count=1, checked=1
+    was: count=4, checked=1
+    determine: count=1, checked=1
+    restaurant: count=1, checked=1
+    loc: count=1, checked=1
+    ations: count=1, checked=1
+    york: count=1, checked=1
+    gathered: count=1, checked=1
+    ny: count=1, checked=1
+    restaurants: count=1, checked=1
+    foursquare: count=1, checked=1
+    maps: count=1, checked=1
+    kaggle: count=1, checked=1
+    unsupervised: count=1, checked=1
+    mean: count=1, checked=1
+    clustering: count=1, checked=1
+    independent: count=1, checked=1
+    variables: count=4, checked=1
+    samrat: count=1, checked=1
+    ashok: count=1, checked=1
+    technological: count=2, checked=1
+    institute: count=4, checked=1
+    vidisha: count=1, checked=1
+    rgpv: count=1, checked=1
+    xii: count=1, checked=1
+    kendriya: count=2, checked=1
+    vidyalaya: count=2, checked=1
+    shivpuri: count=2, checked=1
+    accredited: count=1, checked=1
+    lakehouse: count=1, checked=1
+    programing: count=1, checked=1
+    language: count=5, checked=1
+    c: count=13, checked=1
+    typescript: count=1, checked=1
+    script: count=17, checked=1
+    ql: count=1, checked=1
+    scss: count=1, checked=1
+    angular: count=2, checked=1
+    dotnet: count=1, checked=1
+    core: count=9, checked=1
+    apps: count=1, checked=1
+    ec: count=6, checked=1
+    sns: count=3, checked=1
+    sqs: count=4, checked=1
+    safe: count=1, checked=1
+    scaled: count=1, checked=1
+    bitbucket: count=4, checked=1
+    confluence: count=1, checked=1
+    crown: count=1, checked=1
+    fortnight: count=1, checked=1
+    birth: count=1, checked=1
+    oct: count=5, checked=1
+    nationality: count=2, checked=1
+    indian: count=2, checked=1
+    marital: count=2, checked=1
+    unmarried: count=1, checked=1
+    krishna: count=1, checked=1
+    chaitanya: count=1, checked=1
+    no: count=5, checked=1
+    chaitanyakrishna: count=1, checked=1
+    extracting: count=2, checked=1
+    mongodb: count=8, checked=1
+    structures: count=4, checked=1
+    customized: count=1, checked=1
+    solve: count=1, checked=1
+    solves: count=1, checked=1
+    algorithms: count=2, checked=1
+    restful: count=9, checked=1
+    flask: count=6, checked=1
+    pocs: count=1, checked=1
+    value: count=2, checked=1
+    proficient: count=1, checked=1
+    back: count=1, checked=1
+    utilities: count=2, checked=1
+    extensive: count=8, checked=1
+    troubleshoot: count=1, checked=1
+    problems: count=3, checked=1
+    across: count=4, checked=1
+    stack: count=4, checked=1
+    participating: count=1, checked=1
+    planning: count=1, checked=1
+    estimating: count=1, checked=1
+    retrospectives: count=1, checked=1
+    activities: count=6, checked=1
+    november: count=3, checked=1
+    matplot: count=1, checked=1
+    lib: count=1, checked=1
+    beautifulsoup: count=1, checked=1
+    toad: count=2, checked=1
+    share: count=1, checked=1
+    point: count=1, checked=1
+    qc: count=1, checked=1
+    compass: count=2, checked=1
+    winscp: count=1, checked=1
+    exposure: count=3, checked=1
+    extract: count=5, checked=1
+    transform: count=6, checked=1
+    troubleshooting: count=2, checked=1
+    bottlenecks: count=1, checked=1
+    various: count=23, checked=1
+    session: count=7, checked=1
+    implementing: count=10, checked=1
+    scd: count=4, checked=1
+    type: count=12, checked=1
+    facts: count=1, checked=1
+    salesforce: count=3, checked=1
+    plans: count=3, checked=1
+    tac: count=2, checked=1
+    administrator: count=1, checked=1
+    console: count=4, checked=1
+    ci: count=8, checked=1
+    cd: count=6, checked=1
+    optimising: count=1, checked=1
+    increase: count=3, checked=1
+    efficiently: count=1, checked=1
+    adapting: count=1, checked=1
+    latest: count=1, checked=1
+    fulfill: count=1, checked=1
+    feeding: count=1, checked=1
+    micolinks: count=1, checked=1
+    location: count=11, checked=1
+    bengaluru: count=1, checked=1
+    period: count=3, checked=1
+    successfully: count=1, checked=1
+    delmon: count=1, checked=1
+    muscat: count=1, checked=1
+    oman: count=1, checked=1
+    abdul: count=1, checked=1
+    nabi: count=1, checked=1
+    saheb: count=1, checked=1
+    l: count=11, checked=1
+    v: count=2, checked=1
+    h: count=1, checked=1
+    w: count=2, checked=1
+    u: count=3, checked=1
+    ka: count=2, checked=1
+    visvesvaraya: count=1, checked=1
+    belagavi: count=1, checked=1
+    open: count=2, checked=1
+    tos: count=1, checked=1
+    enterprise: count=3, checked=1
+    rdbms: count=5, checked=1
+    mac: count=2, checked=1
+    gulbarga: count=1, checked=1
+    textabdulnabi: count=1, checked=1
+    urdu: count=1, checked=1
+    kannada: count=1, checked=1
+    regional: count=1, checked=1
+    swapnali: count=2, checked=1
+    sharad: count=1, checked=1
+    onkar: count=2, checked=1
+    their: count=3, checked=1
+    y: count=1, checked=1
+    mapping: count=22, checked=1
+    informatic: count=1, checked=1
+    datawarehouse: count=1, checked=1
+    slowly: count=3, checked=1
+    changing: count=3, checked=1
+    archive: count=1, checked=1
+    repository: count=3, checked=1
+    mapplet: count=4, checked=1
+    transformation: count=8, checked=1
+    varied: count=1, checked=1
+    unconnected: count=2, checked=1
+    connected: count=5, checked=1
+    lookups: count=2, checked=1
+    router: count=4, checked=1
+    filter: count=2, checked=1
+    expression: count=4, checked=1
+    aggregator: count=4, checked=1
+    joiner: count=3, checked=1
+    update: count=4, checked=1
+    re: count=3, checked=1
+    usability: count=2, checked=1
+    parameters: count=5, checked=1
+    cases: count=3, checked=1
+    meets: count=1, checked=1
+    extensively: count=11, checked=1
+    supporting: count=2, checked=1
+    extraction: count=2, checked=1
+    loading: count=11, checked=1
+    corporate: count=1, checked=1
+    achyuth: count=2, checked=1
+    ooad: count=1, checked=1
+    oops: count=2, checked=1
+    jee: count=1, checked=1
+    j: count=20, checked=1
+    ee: count=9, checked=1
+    sector: count=2, checked=1
+    domain: count=4, checked=1
+    actively: count=1, checked=1
+    each: count=2, checked=1
+    jquery: count=8, checked=1
+    ajax: count=11, checked=1
+    angularjs: count=5, checked=1
+    nodejs: count=1, checked=1
+    bootstrap: count=3, checked=1
+    utilized: count=2, checked=1
+    lambda: count=14, checked=1
+    expressions: count=3, checked=1
+    bulk: count=2, checked=1
+    operations: count=3, checked=1
+    collections: count=3, checked=1
+    would: count=2, checked=1
+    amazon: count=10, checked=1
+    servers: count=5, checked=1
+    watch: count=1, checked=1
+    elb: count=1, checked=1
+    auto: count=8, checked=1
+    scaling: count=4, checked=1
+    ami: count=2, checked=1
+    iam: count=2, checked=1
+    dynamo: count=1, checked=1
+    db: count=11, checked=1
+    elastic: count=1, checked=1
+    search: count=2, checked=1
+    vpc: count=2, checked=1
+    spring: count=66, checked=1
+    struts: count=7, checked=1
+    hibernate: count=11, checked=1
+    mvc: count=13, checked=1
+    boot: count=4, checked=1
+    dao: count=5, checked=1
+    ioc: count=5, checked=1
+    annotations: count=2, checked=1
+    aop: count=7, checked=1
+    micro: count=6, checked=1
+    reliable: count=2, checked=1
+    servlets: count=6, checked=1
+    jsps: count=1, checked=1
+    jstl: count=1, checked=1
+    jdbc: count=7, checked=1
+    ejb: count=3, checked=1
+    communicating: count=1, checked=1
+    soa: count=2, checked=1
+    simple: count=1, checked=1
+    protocol: count=1, checked=1
+    soap: count=10, checked=1
+    representational: count=1, checked=1
+    transfer: count=5, checked=1
+    jax: count=10, checked=1
+    rpc: count=2, checked=1
+    rs: count=4, checked=1
+    ws: count=2, checked=1
+    wsdl: count=4, checked=1
+    uddi: count=2, checked=1
+    cxf: count=2, checked=1
+    jaxb: count=1, checked=1
+    xsd: count=2, checked=1
+    axis: count=4, checked=1
+    stored: count=4, checked=1
+    views: count=3, checked=1
+    nosql: count=2, checked=1
+    mongo: count=2, checked=1
+    xsl: count=3, checked=1
+    xslt: count=2, checked=1
+    xpath: count=1, checked=1
+    fo: count=1, checked=1
+    parsers: count=1, checked=1
+    sax: count=4, checked=1
+    dom: count=4, checked=1
+    jms: count=7, checked=1
+    messaging: count=1, checked=1
+    exchange: count=3, checked=1
+    asynchronous: count=2, checked=1
+    way: count=1, checked=1
+    mq: count=2, checked=1
+    camel: count=10, checked=1
+    provider: count=2, checked=1
+    functions: count=9, checked=1
+    logging: count=5, checked=1
+    standard: count=3, checked=1
+    mechanism: count=1, checked=1
+    log: count=11, checked=1
+    slf: count=2, checked=1
+    rational: count=7, checked=1
+    clear: count=8, checked=1
+    case: count=10, checked=1
+    tortoise: count=2, checked=1
+    svn: count=3, checked=1
+    cvs: count=6, checked=1
+    concurrent: count=1, checked=1
+    plugins: count=1, checked=1
+    maven: count=8, checked=1
+    gradle: count=2, checked=1
+    ant: count=10, checked=1
+    formation: count=2, checked=1
+    mentoring: count=1, checked=1
+    methodologies: count=2, checked=1
+    rad: count=3, checked=1
+    intellij: count=4, checked=1
+    sphere: count=5, checked=1
+    tomcat: count=8, checked=1
+    glassfish: count=1, checked=1
+    jboss: count=5, checked=1
+    mark: count=1, checked=1
+    js: count=2, checked=1
+    node: count=3, checked=1
+    dojo: count=1, checked=1
+    jsf: count=1, checked=1
+    junit: count=9, checked=1
+    gwt: count=1, checked=1
+    jersey: count=4, checked=1
+    cfx: count=1, checked=1
+    rds: count=4, checked=1
+    eap: count=1, checked=1
+    ide: count=10, checked=1
+    beans: count=6, checked=1
+    sts: count=2, checked=1
+    idea: count=1, checked=1
+    rose: count=2, checked=1
+    visio: count=1, checked=1
+    others: count=2, checked=1
+    putty: count=2, checked=1
+    quest: count=2, checked=1
+    rtc: count=1, checked=1
+    mockito: count=1, checked=1
+    tree: count=1, checked=1
+    os: count=4, checked=1
+    patterns: count=4, checked=1
+    singleton: count=3, checked=1
+    prototype: count=1, checked=1
+    delegate: count=3, checked=1
+    locator: count=2, checked=1
+    visitor: count=1, checked=1
+    observer: count=1, checked=1
+    decorator: count=1, checked=1
+    controller: count=1, checked=1
+    pattern: count=3, checked=1
+    capital: count=3, checked=1
+    mar: count=3, checked=1
+    mclean: count=1, checked=1
+    va: count=1, checked=1
+    banking: count=2, checked=1
+    among: count=1, checked=1
+    credit: count=3, checked=1
+    unions: count=1, checked=1
+    loans: count=1, checked=1
+    servicing: count=1, checked=1
+    diversified: count=2, checked=1
+    bank: count=4, checked=1
+    offers: count=1, checked=1
+    checking: count=3, checked=1
+    savings: count=2, checked=1
+    mortgage: count=1, checked=1
+    lending: count=1, checked=1
+    accounts: count=1, checked=1
+    individuals: count=1, checked=1
+    small: count=2, checked=1
+    businesses: count=1, checked=1
+    commercial: count=1, checked=1
+    define: count=1, checked=1
+    will: count=2, checked=1
+    coordinate: count=2, checked=1
+    efforts: count=1, checked=1
+    responsive: count=1, checked=1
+    rwd: count=1, checked=1
+    resource: count=3, checked=1
+    classes: count=7, checked=1
+    fetching: count=1, checked=1
+    deployed: count=6, checked=1
+    pivotal: count=1, checked=1
+    domains: count=1, checked=1
+    routes: count=2, checked=1
+    configured: count=2, checked=1
+    multitude: count=1, checked=1
+    utilizing: count=2, checked=1
+    setting: count=2, checked=1
+    instances: count=5, checked=1
+    vpcs: count=1, checked=1
+    groups: count=3, checked=1
+    instance: count=2, checked=1
+    backups: count=2, checked=1
+    handled: count=4, checked=1
+    assessment: count=1, checked=1
+    indicators: count=1, checked=1
+    token: count=1, checked=1
+    authentication: count=2, checked=1
+    rabbitmq: count=5, checked=1
+    sending: count=3, checked=1
+    queue: count=2, checked=1
+    docker: count=4, checked=1
+    container: count=1, checked=1
+    easily: count=1, checked=1
+    accessible: count=1, checked=1
+    runtime: count=1, checked=1
+    netflix: count=2, checked=1
+    eureka: count=1, checked=1
+    oauth: count=1, checked=1
+    authorization: count=1, checked=1
+    declarative: count=1, checked=1
+    function: count=4, checked=1
+    request: count=5, checked=1
+    points: count=1, checked=1
+    gateway: count=1, checked=1
+    versioning: count=2, checked=1
+    staging: count=4, checked=1
+    controllers: count=2, checked=1
+    replace: count=1, checked=1
+    layer: count=10, checked=1
+    acts: count=1, checked=1
+    bridge: count=1, checked=1
+    between: count=6, checked=1
+    pom: count=1, checked=1
+    deploy: count=4, checked=1
+    defects: count=4, checked=1
+    jsp: count=12, checked=1
+    redis: count=1, checked=1
+    websphere: count=3, checked=1
+    cassandra: count=2, checked=1
+    farm: count=2, checked=1
+    dallas: count=1, checked=1
+    quote: count=3, checked=1
+    purchase: count=3, checked=1
+    aqp: count=3, checked=1
+    sf: count=3, checked=1
+    property: count=2, checked=1
+    causality: count=1, checked=1
+    being: count=2, checked=1
+    main: count=1, checked=1
+    forte: count=1, checked=1
+    umbrella: count=1, checked=1
+    crucial: count=1, checked=1
+    involves: count=1, checked=1
+    fixes: count=1, checked=1
+    enhancements: count=4, checked=1
+    gather: count=2, checked=1
+    generate: count=4, checked=1
+    provides: count=3, checked=1
+    user: count=8, checked=1
+    friendly: count=2, checked=1
+    gui: count=3, checked=1
+    interface: count=7, checked=1
+    persistence: count=3, checked=1
+    relationships: count=1, checked=1
+    backend: count=7, checked=1
+    reading: count=2, checked=1
+    response: count=2, checked=1
+    consumed: count=2, checked=1
+    external: count=6, checked=1
+    interfaces: count=1, checked=1
+    carried: count=1, checked=1
+    dependency: count=3, checked=1
+    injection: count=2, checked=1
+    loose: count=1, checked=1
+    coupling: count=1, checked=1
+    layers: count=1, checked=1
+    injected: count=1, checked=1
+    necessary: count=2, checked=1
+    dependent: count=1, checked=1
+    cutting: count=1, checked=1
+    exceptions: count=1, checked=1
+    hql: count=2, checked=1
+    message: count=1, checked=1
+    driven: count=1, checked=1
+    bean: count=2, checked=1
+    remote: count=3, checked=1
+    lookup: count=6, checked=1
+    queues: count=1, checked=1
+    mdbs: count=1, checked=1
+    listeners: count=1, checked=1
+    established: count=2, checked=1
+    entities: count=1, checked=1
+    packaged: count=1, checked=1
+    notification: count=1, checked=1
+    tracing: count=1, checked=1
+    mechanisms: count=2, checked=1
+    fixing: count=2, checked=1
+    tracking: count=3, checked=1
+    jdk: count=1, checked=1
+    jndi: count=1, checked=1
+    rmi: count=1, checked=1
+    cigna: count=1, checked=1
+    healthcare: count=1, checked=1
+    dec: count=6, checked=1
+    windsor: count=1, checked=1
+    ct: count=1, checked=1
+    helping: count=1, checked=1
+    people: count=2, checked=1
+    benefit: count=1, checked=1
+    helps: count=1, checked=1
+    reengineering: count=1, checked=1
+    old: count=1, checked=1
+    replacing: count=1, checked=1
+    outdated: count=1, checked=1
+    cordiant: count=1, checked=1
+    frame: count=1, checked=1
+    scalability: count=2, checked=1
+    daos: count=1, checked=1
+    feature: count=1, checked=1
+    mdb: count=1, checked=1
+    receive: count=1, checked=1
+    ibmmq: count=1, checked=1
+    queuing: count=1, checked=1
+    dto: count=1, checked=1
+    jta: count=1, checked=1
+    symphony: count=2, checked=1
+    coded: count=1, checked=1
+    template: count=1, checked=1
+    groovy: count=2, checked=1
+    basis: count=5, checked=1
+    accuracy: count=1, checked=1
+    sanity: count=1, checked=1
+    uml: count=1, checked=1
+    soapui: count=1, checked=1
+    liberty: count=2, checked=1
+    mutual: count=2, checked=1
+    american: count=2, checked=1
+    insurer: count=3, checked=1
+    second: count=2, checked=1
+    casualty: count=1, checked=1
+    united: count=3, checked=1
+    states: count=2, checked=1
+    ecommerce: count=1, checked=1
+    accessibility: count=1, checked=1
+    agent: count=2, checked=1
+    quotes: count=1, checked=1
+    payments: count=1, checked=1
+    includes: count=3, checked=1
+    class: count=1, checked=1
+    sequence: count=2, checked=1
+    diagrams: count=1, checked=1
+    iterative: count=1, checked=1
+    cycles: count=1, checked=1
+    detail: count=2, checked=1
+    every: count=1, checked=1
+    iteration: count=1, checked=1
+    passes: count=1, checked=1
+    before: count=2, checked=1
+    packages: count=1, checked=1
+    cursors: count=1, checked=1
+    nested: count=1, checked=1
+    arrays: count=1, checked=1
+    types: count=5, checked=1
+    wireframes: count=1, checked=1
+    detailed: count=2, checked=1
+    specification: count=4, checked=1
+    receiving: count=1, checked=1
+    validation: count=6, checked=1
+    tiles: count=1, checked=1
+    tag: count=1, checked=1
+    libraries: count=4, checked=1
+    simplify: count=1, checked=1
+    complexities: count=1, checked=1
+    pages: count=3, checked=1
+    speed: count=1, checked=1
+    filling: count=1, checked=1
+    consuming: count=1, checked=1
+    required: count=8, checked=1
+    jar: count=1, checked=1
+    war: count=1, checked=1
+    ear: count=3, checked=1
+    automatically: count=1, checked=1
+    capture: count=1, checked=1
+    soft: count=1, checked=1
+    hyderabad: count=5, checked=1
+    mainly: count=1, checked=1
+    intranet: count=2, checked=1
+    meant: count=1, checked=1
+    employees: count=2, checked=1
+    they: count=2, checked=1
+    mailing: count=1, checked=1
+    chatting: count=1, checked=1
+    login: count=2, checked=1
+    guided: count=1, checked=1
+    set: count=1, checked=1
+    action: count=2, checked=1
+    customs: count=1, checked=1
+    tags: count=1, checked=1
+    display: count=1, checked=1
+    contents: count=1, checked=1
+    avoid: count=1, checked=1
+    amounts: count=1, checked=1
+    items: count=1, checked=1
+    navigation: count=1, checked=1
+    steps: count=1, checked=1
+    entity: count=2, checked=1
+    storing: count=1, checked=1
+    terms: count=1, checked=1
+    stress: count=1, checked=1
+    tests: count=1, checked=1
+    wsad: count=1, checked=1
+    pvcs: count=1, checked=1
+    prs: count=1, checked=1
+    price: count=1, checked=1
+    publish: count=2, checked=1
+    rates: count=1, checked=1
+    fedex: count=1, checked=1
+    locations: count=1, checked=1
+    subsidiaries: count=1, checked=1
+    interacts: count=1, checked=1
+    legacy: count=3, checked=1
+    uses: count=1, checked=1
+    wrote: count=2, checked=1
+    statements: count=2, checked=1
+    retrieve: count=1, checked=1
+    logs: count=2, checked=1
+    divya: count=1, checked=1
+    rajagopal: count=1, checked=1
+    divyaraj: count=1, checked=1
+    ably: count=1, checked=1
+    ph: count=1, checked=1
+    myself: count=2, checked=1
+    competitive: count=1, checked=1
+    applying: count=2, checked=1
+    establish: count=1, checked=1
+    hue: count=1, checked=1
+    feedhub: count=2, checked=1
+    actimizer: count=1, checked=1
+    april: count=2, checked=1
+    yrs: count=1, checked=1
+    roles: count=9, checked=1
+    bfs: count=2, checked=1
+    bigdata: count=2, checked=1
+    canada: count=2, checked=1
+    crime: count=1, checked=1
+    fcmt: count=1, checked=1
+    identifying: count=1, checked=1
+    found: count=2, checked=1
+    suspicious: count=1, checked=1
+    fraudulent: count=1, checked=1
+    report: count=3, checked=1
+    specific: count=1, checked=1
+    account: count=3, checked=1
+    risk: count=2, checked=1
+    sufficient: count=1, checked=1
+    funds: count=1, checked=1
+    allocated: count=1, checked=1
+    general: count=2, checked=1
+    ledger: count=1, checked=1
+    developers: count=2, checked=1
+    abinitio: count=1, checked=1
+    migrate: count=1, checked=1
+    obtain: count=1, checked=1
+    similar: count=1, checked=1
+    results: count=3, checked=1
+    group: count=3, checked=1
+    comparing: count=1, checked=1
+    intermediate: count=2, checked=1
+    match: count=1, checked=1
+    udf: count=1, checked=1
+    typecasting: count=1, checked=1
+    wherever: count=1, checked=1
+    windowing: count=1, checked=1
+    optimize: count=1, checked=1
+    yield: count=1, checked=1
+    compared: count=1, checked=1
+    same: count=4, checked=1
+    sla: count=2, checked=1
+    targets: count=3, checked=1
+    ca: count=1, checked=1
+    add: count=1, checked=1
+    remove: count=1, checked=1
+    requested: count=1, checked=1
+    utility: count=3, checked=1
+    watchers: count=1, checked=1
+    commands: count=8, checked=1
+    boxes: count=1, checked=1
+    depth: count=1, checked=1
+    functionality: count=1, checked=1
+    calendars: count=1, checked=1
+    secure: count=1, checked=1
+    autocal: count=3, checked=1
+    asc: count=2, checked=1
+    actions: count=1, checked=1
+    force: count=1, checked=1
+    ice: count=2, checked=1
+    off: count=2, checked=1
+    hold: count=2, checked=1
+    kill: count=1, checked=1
+    terminate: count=1, checked=1
+    success: count=2, checked=1
+    following: count=2, checked=1
+    jil: count=1, checked=1
+    autorep: count=1, checked=1
+    depends: count=1, checked=1
+    upon: count=1, checked=1
+    notify: count=2, checked=1
+    regarding: count=1, checked=1
+    failures: count=3, checked=1
+    escalate: count=1, checked=1
+    vendor: count=1, checked=1
+    weekly: count=3, checked=1
+    next: count=2, checked=1
+    run: count=3, checked=1
+    monthly: count=1, checked=1
+    yearly: count=1, checked=1
+    batches: count=1, checked=1
+    gaps: count=1, checked=1
+    enable: count=1, checked=1
+    identification: count=1, checked=1
+    documentation: count=3, checked=1
+    alerting: count=1, checked=1
+    rebooting: count=1, checked=1
+    whenever: count=2, checked=1
+    remediating: count=1, checked=1
+    started: count=1, checked=1
+    check: count=1, checked=1
+    prod: count=3, checked=1
+    stable: count=1, checked=1
+    weblogic: count=1, checked=1
+    transferring: count=1, checked=1
+    retail: count=1, checked=1
+    provision: count=1, checked=1
+    fix: count=1, checked=1
+    poc: count=1, checked=1
+    alchemy: count=1, checked=1
+    techsol: count=1, checked=1
+    independently: count=1, checked=1
+    sed: count=1, checked=1
+    awk: count=1, checked=1
+    conditional: count=1, checked=1
+    loops: count=1, checked=1
+    sqlplus: count=1, checked=1
+    connect: count=1, checked=1
+    execute: count=3, checked=1
+    collecting: count=1, checked=1
+    post: count=1, checked=1
+    deadline: count=1, checked=1
+    trigger: count=1, checked=1
+    mails: count=1, checked=1
+    associates: count=1, checked=1
+    sendmail: count=1, checked=1
+    associated: count=1, checked=1
+    degree: count=2, checked=1
+    name: count=8, checked=1
+    passout: count=1, checked=1
+    percentage: count=1, checked=1
+    ece: count=1, checked=1
+    dr: count=1, checked=1
+    thimmaiah: count=1, checked=1
+    kgf: count=1, checked=1
+    declaration: count=1, checked=1
+    hereby: count=1, checked=1
+    declare: count=1, checked=1
+    above: count=1, checked=1
+    mentioned: count=1, checked=1
+    true: count=1, checked=1
+    beliefs: count=1, checked=1
+    place: count=2, checked=1
+    chennai: count=3, checked=1
+    signature: count=1, checked=1
+    khaja: count=1, checked=1
+    reddy: count=1, checked=1
+    khajareddych: count=1, checked=1
+    ansible: count=5, checked=1
+    playbooks: count=1, checked=1
+    sqlite: count=1, checked=1
+    dtv: count=1, checked=1
+    perforce: count=1, checked=1
+    bugzilla: count=2, checked=1
+    sr: count=2, checked=1
+    bharathidasan: count=1, checked=1
+    sc: count=1, checked=1
+    alliance: count=1, checked=1
+    technosoft: count=1, checked=1
+    feasible: count=1, checked=1
+    manufacturers: count=1, checked=1
+    configuration: count=3, checked=1
+    versions: count=1, checked=1
+    host: count=1, checked=1
+    oel: count=1, checked=1
+    activity: count=1, checked=1
+    hosts: count=1, checked=1
+    need: count=1, checked=1
+    audit: count=1, checked=1
+    repose: count=1, checked=1
+    vulnerabilities: count=1, checked=1
+    play: count=1, checked=1
+    station: count=1, checked=1
+    ngp: count=1, checked=1
+    generation: count=1, checked=1
+    gaming: count=1, checked=1
+    product: count=1, checked=1
+    sony: count=1, checked=1
+    dm: count=6, checked=1
+    kit: count=1, checked=1
+    attempts: count=1, checked=1
+    if: count=1, checked=1
+    creates: count=1, checked=1
+    searching: count=1, checked=1
+    executable: count=1, checked=1
+    stores: count=1, checked=1
+    localappdata: count=1, checked=1
+    copies: count=1, checked=1
+    kernel: count=1, checked=1
+    crash: count=1, checked=1
+    dms: count=2, checked=1
+    manages: count=1, checked=1
+    explorer: count=1, checked=1
+    communicates: count=1, checked=1
+    command: count=1, checked=1
+    prompt: count=1, checked=1
+    there: count=1, checked=1
+    thousands: count=1, checked=1
+    concentrates: count=1, checked=1
+    review: count=3, checked=1
+    confirm: count=1, checked=1
+    arshiya: count=2, checked=1
+    shaik: count=1, checked=1
+    sab: count=1, checked=1
+    powercenter: count=3, checked=1
+    analyzer: count=2, checked=1
+    csv: count=2, checked=1
+    mapplets: count=4, checked=1
+    worklets: count=2, checked=1
+    reusable: count=2, checked=1
+    qualifier: count=1, checked=1
+    sorter: count=1, checked=1
+    union: count=1, checked=1
+    sequnce: count=1, checked=1
+    generator: count=2, checked=1
+    un: count=2, checked=1
+    reusability: count=1, checked=1
+    incremental: count=2, checked=1
+    extracted: count=1, checked=1
+    contributed: count=1, checked=1
+    sample: count=1, checked=1
+    grasp: count=1, checked=1
+    quickly: count=1, checked=1
+    competencies: count=1, checked=1
+    worklet: count=1, checked=1
+    organisational: count=2, checked=1
+    designation: count=2, checked=1
+    zurich: count=5, checked=1
+    swiss: count=2, checked=1
+    headquartered: count=1, checked=1
+    zürich: count=1, checked=1
+    country: count=1, checked=1
+    th: count=4, checked=1
+    forbes: count=1, checked=1
+    ranked: count=1, checked=1
+    interbrand: count=1, checked=1
+    brands: count=1, checked=1
+    three: count=1, checked=1
+    segments: count=1, checked=1
+    farmers: count=1, checked=1
+    employs: count=1, checked=1
+    countries: count=1, checked=1
+    territories: count=1, checked=1
+    listed: count=1, checked=1
+    six: count=1, checked=1
+    analyser: count=1, checked=1
+    tranformations: count=1, checked=1
+    normalizer: count=1, checked=1
+    resuable: count=1, checked=1
+    concecpts: count=1, checked=1
+    dimension: count=3, checked=1
+    indirect: count=1, checked=1
+    method: count=1, checked=1
+    varables: count=1, checked=1
+    perameterization: count=1, checked=1
+    checked: count=1, checked=1
+    specifications: count=3, checked=1
+    several: count=1, checked=1
+    discuss: count=1, checked=1
+    umr: count=3, checked=1
+    third: count=1, checked=1
+    party: count=1, checked=1
+    uhg: count=1, checked=1
+    profit: count=1, checked=1
+    aims: count=1, checked=1
+    added: count=1, checked=1
+    national: count=2, checked=1
+    discounts: count=1, checked=1
+    advanced: count=2, checked=1
+    claims: count=1, checked=1
+    chronic: count=1, checked=1
+    condition: count=1, checked=1
+    wellness: count=1, checked=1
+    programs: count=1, checked=1
+    headquarters: count=1, checked=1
+    wausau: count=1, checked=1
+    wisconsin: count=1, checked=1
+    generates: count=1, checked=1
+    million: count=1, checked=1
+    move: count=2, checked=1
+    common: count=1, checked=1
+    range: count=1, checked=1
+    table: count=7, checked=1
+    validate: count=1, checked=1
+    coding: count=1, checked=1
+    keyskills: count=1, checked=1
+    keyskillscreated: count=1, checked=1
+    adaptable: count=2, checked=1
+    attitude: count=1, checked=1
+    towards: count=1, checked=1
+    orientated: count=1, checked=1
+    kuppam: count=2, checked=1
+    chittoor: count=1, checked=1
+    dist: count=1, checked=1
+    jannu: count=2, checked=1
+    damini: count=2, checked=1
+    collaborative: count=1, checked=1
+    minded: count=1, checked=1
+    skilled: count=1, checked=1
+    workiva: count=1, checked=1
+    seeks: count=1, checked=1
+    opportunity: count=1, checked=1
+    functionally: count=1, checked=1
+    dac: count=2, checked=1
+    honeywell: count=3, checked=1
+    capgemini: count=3, checked=1
+    peace: count=1, checked=1
+    organizations: count=1, checked=1
+    uranium: count=1, checked=1
+    hexafluoride: count=1, checked=1
+    facilitykansas: count=1, checked=1
+    plantsandia: count=1, checked=1
+    laboratories: count=1, checked=1
+    facilities: count=1, checked=1
+    adequate: count=1, checked=1
+    linking: count=1, checked=1
+    chains: count=1, checked=1
+    connectors: count=1, checked=1
+    presentations: count=1, checked=1
+    accomplished: count=1, checked=1
+    alternate: count=1, checked=1
+    estimates: count=1, checked=1
+    rccl: count=1, checked=1
+    royal: count=1, checked=1
+    caribbean: count=1, checked=1
+    cruises: count=1, checked=1
+    scheduled: count=2, checked=1
+    ddl: count=1, checked=1
+    dml: count=1, checked=1
+    dcl: count=1, checked=1
+    tested: count=2, checked=1
+    populated: count=2, checked=1
+    defined: count=1, checked=1
+    indexes: count=1, checked=1
+    indexed: count=1, checked=1
+    else: count=1, checked=1
+    insert: count=1, checked=1
+    updated: count=2, checked=1
+    flag: count=1, checked=1
+    columns: count=2, checked=1
+    record: count=2, checked=1
+    inserted: count=1, checked=1
+    zebra: count=2, checked=1
+    dev: count=2, checked=1
+    grasped: count=1, checked=1
+    subject: count=1, checked=1
+    setup: count=2, checked=1
+    ep: count=1, checked=1
+    descriptions: count=1, checked=1
+    times: count=1, checked=1
+    vignan: count=1, checked=1
+    duvvada: count=1, checked=1
+    mpc: count=1, checked=1
+    narayana: count=1, checked=1
+    jr: count=1, checked=1
+    vishakhapatnam: count=2, checked=1
+    sri: count=1, checked=1
+    ramakrishna: count=1, checked=1
+    trainings: count=1, checked=1
+    trained: count=3, checked=1
+    plsql: count=1, checked=1
+    governance: count=1, checked=1
+    privacy: count=1, checked=1
+    foundation: count=1, checked=1
+    attention: count=1, checked=1
+    nature: count=1, checked=1
+    browsing: count=1, checked=1
+    internet: count=1, checked=1
+    sports: count=1, checked=1
+    telugu: count=1, checked=1
+    maria: count=1, checked=1
+    rinaldi: count=1, checked=1
+    mariarinaldi: count=1, checked=1
+    dataware: count=1, checked=1
+    pig: count=3, checked=1
+    ecosystems: count=1, checked=1
+    resourcemanager: count=1, checked=1
+    nodemanager: count=1, checked=1
+    paradigm: count=1, checked=1
+    warehouses: count=1, checked=1
+    computing: count=1, checked=1
+    simultaneously: count=1, checked=1
+    infosys: count=2, checked=1
+    cognizant: count=3, checked=1
+    rd: count=1, checked=1
+    smart: count=1, checked=1
+    softwares: count=1, checked=1
+    st: count=1, checked=1
+    qualifications: count=1, checked=1
+    magna: count=1, checked=1
+    anna: count=1, checked=1
+    mapreduce: count=1, checked=1
+    hbase: count=3, checked=1
+    xp: count=1, checked=1
+    known: count=1, checked=1
+    aps: count=1, checked=1
+    westpac: count=1, checked=1
+    australia: count=1, checked=1
+    retrieved: count=1, checked=1
+    orc: count=2, checked=1
+    metadata: count=1, checked=1
+    inbound: count=2, checked=1
+    ingest: count=1, checked=1
+    bdp: count=1, checked=1
+    ddep: count=2, checked=1
+    apply: count=1, checked=1
+    release: count=1, checked=1
+    sit: count=1, checked=1
+    svp: count=1, checked=1
+    uat: count=1, checked=1
+    executing: count=1, checked=1
+    ingested: count=1, checked=1
+    directories: count=1, checked=1
+    analytics: count=1, checked=1
+    find: count=1, checked=1
+    dataset: count=1, checked=1
+    alm: count=1, checked=1
+    raised: count=1, checked=1
+    lifecycle: count=1, checked=1
+    wildcats: count=1, checked=1
+    nationwide: count=1, checked=1
+    athena: count=4, checked=1
+    glue: count=2, checked=1
+    continuously: count=1, checked=1
+    demo: count=1, checked=1
+    redshift: count=2, checked=1
+    visualizing: count=2, checked=1
+    column: count=1, checked=1
+    astrazeneca: count=1, checked=1
+    tax: count=2, checked=1
+    sqlserver: count=1, checked=1
+    analyses: count=1, checked=1
+    gitbase: count=1, checked=1
+    workbench: count=2, checked=1
+    hcm: count=1, checked=1
+    delta: count=2, checked=1
+    detection: count=4, checked=1
+    reltiodb: count=1, checked=1
+    hca: count=1, checked=1
+    hcp: count=1, checked=1
+    metastore: count=3, checked=1
+    axa: count=1, checked=1
+    smartsources: count=1, checked=1
+    when: count=1, checked=1
+    crawling: count=1, checked=1
+    increased: count=1, checked=1
+    massively: count=1, checked=1
+    cannot: count=1, checked=1
+    kind: count=1, checked=1
+    box: count=1, checked=1
+    reason: count=1, checked=1
+    wants: count=1, checked=1
+    exactly: count=1, checked=1
+    massive: count=1, checked=1
+    amount: count=2, checked=1
+    means: count=1, checked=1
+    nodes: count=2, checked=1
+    satisfy: count=1, checked=1
+    operation: count=1, checked=1
+    moved: count=2, checked=1
+    crawl: count=1, checked=1
+    retailers: count=1, checked=1
+    tabular: count=1, checked=1
+    parsed: count=1, checked=1
+    partitions: count=1, checked=1
+    buckets: count=1, checked=1
+    vectorization: count=1, checked=1
+    indexing: count=1, checked=1
+    completely: count=1, checked=1
+    dob: count=1, checked=1
+    sex: count=1, checked=1
+    married: count=1, checked=1
+    tamil: count=1, checked=1
+    nishant: count=2, checked=1
+    garg: count=2, checked=1
+    nishantgarg: count=1, checked=1
+    gargnishant: count=1, checked=1
+    near: count=1, checked=1
+    medium: count=1, checked=1
+    infrastructures: count=1, checked=1
+    microservices: count=3, checked=1
+    usd: count=2, checked=1
+    reads: count=2, checked=1
+    replication: count=3, checked=1
+    usage: count=3, checked=1
+    spot: count=2, checked=1
+    fargate: count=1, checked=1
+    serverless: count=2, checked=1
+    aurora: count=1, checked=1
+    cloudwatch: count=2, checked=1
+    asg: count=1, checked=1
+    fastapi: count=2, checked=1
+    scraping: count=2, checked=1
+    balancer: count=2, checked=1
+    documentdb: count=2, checked=1
+    cloudwiry: count=1, checked=1
+    optimizing: count=2, checked=1
+    boto: count=1, checked=1
+    metrics: count=1, checked=1
+    read: count=1, checked=1
+    replications: count=1, checked=1
+    allowed: count=1, checked=1
+    sec: count=1, checked=1
+    minimize: count=1, checked=1
+    latency: count=1, checked=1
+    compute: count=1, checked=1
+    fault: count=1, checked=1
+    tolerance: count=1, checked=1
+    aidetic: count=1, checked=1
+    keys: count=1, checked=1
+    nginx: count=1, checked=1
+    reverse: count=1, checked=1
+    proxy: count=2, checked=1
+    dockers: count=1, checked=1
+    swarm: count=1, checked=1
+    zestiot: count=1, checked=1
+    android: count=2, checked=1
+    mvvm: count=1, checked=1
+    rcet: count=1, checked=1
+    cbse: count=1, checked=1
+    ssv: count=1, checked=1
+    course: count=1, checked=1
+    udacity: count=1, checked=1
+    ch: count=1, checked=1
+    srinivaslu: count=1, checked=1
+    chithiralasrinuvasulu: count=1, checked=1
+    oozie: count=3, checked=1
+    sparkstreaming: count=1, checked=1
+    rdds: count=1, checked=1
+    dfs: count=1, checked=1
+    input: count=1, checked=1
+    getting: count=1, checked=1
+    import: count=2, checked=1
+    export: count=2, checked=1
+    hiveql: count=1, checked=1
+    primary: count=1, checked=1
+    sparksql: count=3, checked=1
+    cse: count=1, checked=1
+    jntuk: count=1, checked=1
+    kakinda: count=1, checked=1
+    singapore: count=1, checked=1
+    dbs: count=1, checked=1
+    singularity: count=2, checked=1
+    cdh: count=1, checked=1
+    consolidate: count=1, checked=1
+    loan: count=1, checked=1
+    equity: count=1, checked=1
+    unified: count=1, checked=1
+    again: count=1, checked=1
+    going: count=1, checked=1
+    merge: count=1, checked=1
+    promote: count=1, checked=1
+    particular: count=1, checked=1
+    card: count=1, checked=1
+    holder: count=1, checked=1
+    regular: count=1, checked=1
+    validating: count=1, checked=1
+    fields: count=1, checked=1
+    respect: count=1, checked=1
+    dataframe: count=1, checked=1
+

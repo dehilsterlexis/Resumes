@@ -1,0 +1,16 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-6-17 13:9:50
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("study") = getconcept(findroot(),"study");
+G("heads") = getconcept(G("study"),"heads");
+G("words") = getconcept(G("study"),"words");
+G("order") = getconcept(G("study"),"order");
+
+@@CODE

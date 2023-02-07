@@ -9,12 +9,14 @@
 @PATH _ROOT _LINE _language
 
 @POST
-	N("con") = makeconcept(X("con",2),strtolower(N("$text")));
+	L("lang") = strtolower(N("$text"));
+	N("con") = makeconcept(X("con",2),L("lang"));
 	addnumval(N("con"),"rank",X("rank",2));
 	addnumval(N("con"),"pop",X("pop",2));
 	if (N("spoken")) {
 		addnumval(N("con"),"spoken",1);
 	}
+	"langs.dict" << L("lang") << " s=lang\n";
 @RULES
 _xNIL <-
 	_lang	### (1)

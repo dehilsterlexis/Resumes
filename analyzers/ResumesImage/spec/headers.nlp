@@ -14,10 +14,10 @@
 		N("possible") = 1;
 		single();
 	}
-	else if (num(N("words")) && num(N("words")) == num(N("upper")) && N("words") == 1) {
-		N("level") = 2;
-		single();
-	}
+	# else if (num(N("words")) && num(N("words")) == num(N("upper")) && N("words") == 1) {
+	# 	N("level") = 2;
+	# 	single();
+	# }
 
 @RULES
 _header <-

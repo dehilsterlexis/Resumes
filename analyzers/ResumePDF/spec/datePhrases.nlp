@@ -1,0 +1,22 @@
+###############################################
+# FILE: dates
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 11:47:15
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@PRE
+	<1,1> vareq("date","month");
+	<2,2> var("year");
+
+@RULES
+_dateRange <-
+	_xALPHA [s]	### (1)
+	_xNUM	### (2)
+	to		### (3)
+	present	### (4)
+	@@
+		

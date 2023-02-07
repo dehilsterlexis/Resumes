@@ -1,0 +1,26 @@
+###############################################
+# FILE: resumeHeaders
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-7 11:4:28
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@PRE
+	<1,1> varz("common");
+@RULES
+_header <-
+	_xALPHA		### (1)
+	experience	### (2)
+	@@
+
+@PRE
+	<2,2> vareq("resume","header");
+@RULES
+_header <-
+	_xSTART	### (1)
+	_xALPHA	### (2)
+	_xEND	### (3)
+	@@

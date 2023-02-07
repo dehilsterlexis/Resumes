@@ -1,0 +1,23 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-2-2 10:10:34
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+	if (num(N("words")) && num(N("words")) == num(N("caps"))) {
+		L("phrase") = strtrim(strsubst(strtolower(N("$text",1)),":",0));
+		"output.txt" << L("phrase") << "\n";
+		L("con") = getconcept(G("heads"),L("phrase"));
+		IncrementCount(L("con"),"count");
+		addstrval(L("con"),"file",G("$inputname"));
+		single();
+	}
+@RULES
+_header <-
+	_LINE	### (1)
+	@@

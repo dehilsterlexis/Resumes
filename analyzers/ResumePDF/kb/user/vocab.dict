@@ -1,1 +1,6 @@
-word s=suggestedNode attr=value
+# One word titles
+
+education resume=header
+skills resume=header
+links resume=header
+hobbies resume=header
